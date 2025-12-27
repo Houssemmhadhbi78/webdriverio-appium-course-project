@@ -1,0 +1,1082 @@
+2025-12-26T20:12:36.003Z CLI info [main]     Server listening on port: 5400
+2025-12-26T20:12:36.059Z CLI info     Config : {"userName":"[REDACTED]","accessKey":"[REDACTED]","platforms":[{"platformName":"Android","appium:deviceName":"Google Pixel 5","appium:platformVersion":"11.0","appium:automationName":"UiAutomator2","appium:app":"bs://35918e6a03680c48497e21350280c67ce0214b17","projectName":"My First WebDriverIO Mobile Project on Android device","buildName":"Test regression","sessionName":"ColorNote - Delete note","debug":true,"networkLogs":true,"deviceLogs":true,"appiumLogs":true,"video":true,"local":false,"interactiveDebugging":true,"wdioService":"9.21.0"}],"isNonBstackA11yWDIO":false,"testReporting":true,"browserstackLocal":false,"testObservability":true,"accessibility":null,"browserStackLocalOptions":{"forceLocal":false},"testContextOptions":{"skipSessionName":false,"skipSessionStatus":false,"sessionNameOmitTestTitle":false,"sessionNamePrependTopLevelSuiteTitle":false,"sessionNameFormat":""},"buildTag":[]}
+2025-12-26T20:12:36.069Z CLI info     Should start debug utility: undefined
+2025-12-26T20:12:36.070Z CLI info [testhub:module]  [mhadhbihoussem_GpsWhQ]   [76880490-56f5-4272-a94b-ee7061afd5bf]  Starting testhub from 11196:0
+2025-12-26T20:12:36.072Z CLI info  [mhadhbihoussem_GpsWhQ]   [76880490-56f5-4272-a94b-ee7061afd5bf]  [PRODUCTION] Making POST request to https://sdk.browserstack.com
+2025-12-26T20:12:36.910Z CLI info [testhub:module]  [mhadhbihoussem_GpsWhQ]   [76880490-56f5-4272-a94b-ee7061afd5bf]  startBuild: response=1iqvkcauchyabjwdoogskks15yyrdzdwhguumul8
+2025-12-26T20:12:36.911Z CLI info  [mhadhbihoussem_GpsWhQ]  [1iqvkcauchyabjwdoogskks15yyrdzdwhguumul8]  [76880490-56f5-4272-a94b-ee7061afd5bf]  [PRODUCTION] Making POST request to https://api.browserstack.com
+2025-12-26T20:12:37.326Z CLI info  [mhadhbihoussem_GpsWhQ]  [1iqvkcauchyabjwdoogskks15yyrdzdwhguumul8]  [76880490-56f5-4272-a94b-ee7061afd5bf]  [PRODUCTION] Making PUT request to https://collector-observability.browserstack.com
+2025-12-26T20:12:37.649Z CLI info [testhub:module]  [mhadhbihoussem_GpsWhQ]  [1iqvkcauchyabjwdoogskks15yyrdzdwhguumul8]  [76880490-56f5-4272-a94b-ee7061afd5bf]  stopBuild: 1iqvkcauchyabjwdoogskks15yyrdzdwhguumul8 request={"finished_at":"2025-12-26T20:12:37.196Z","finished_metadata":[],"custom_metadata":null} response={"data":""}
+2025-12-26T20:12:37.650Z CLI info  [mhadhbihoussem_GpsWhQ]  [1iqvkcauchyabjwdoogskks15yyrdzdwhguumul8]  [76880490-56f5-4272-a94b-ee7061afd5bf]  [PRODUCTION] Making POST request to https://api.browserstack.com
+2025-12-26T20:12:37.650Z CLI info [TEST REPORTING AND ANALYTICS:module]  [mhadhbihoussem_GpsWhQ]  [1iqvkcauchyabjwdoogskks15yyrdzdwhguumul8]  [76880490-56f5-4272-a94b-ee7061afd5bf]  Visit https://automation.browserstack.com/builds/1iqvkcauchyabjwdoogskks15yyrdzdwhguumul8 to view build report, insights, and many more debugging information all at one place!
+2025-12-26T20:12:37.842Z CLI info  [mhadhbihoussem_GpsWhQ]  [1iqvkcauchyabjwdoogskks15yyrdzdwhguumul8]  [76880490-56f5-4272-a94b-ee7061afd5bf]  [PRODUCTION] Making GET request to https://api.browserstack.com
+2025-12-26T20:12:38.025Z CLI info  [mhadhbihoussem_GpsWhQ]  [1iqvkcauchyabjwdoogskks15yyrdzdwhguumul8]  [76880490-56f5-4272-a94b-ee7061afd5bf]  [PRODUCTION] Making POST request to https://eds.browserstack.com
+2025-12-26T20:19:19.186Z CLI info [main]     Server listening on port: 5400
+2025-12-26T20:19:19.216Z CLI info     Config : {"userName":"[REDACTED]","accessKey":"[REDACTED]","platforms":[{"platformName":"Android","appium:deviceName":"Google Pixel 5","appium:platformVersion":"11.0","appium:automationName":"UiAutomator2","appium:app":"bs://35918e6a03680c48497e21350280c67ce0214b17","projectName":"My First WebDriverIO Mobile Project on Android device","buildName":"Test regression","sessionName":"ColorNote - Delete note","debug":true,"networkLogs":true,"deviceLogs":true,"appiumLogs":true,"video":true,"local":false,"interactiveDebugging":true,"wdioService":"9.21.0"}],"isNonBstackA11yWDIO":false,"testReporting":true,"browserstackLocal":false,"testObservability":true,"accessibility":null,"browserStackLocalOptions":{"forceLocal":false},"testContextOptions":{"skipSessionName":false,"skipSessionStatus":false,"sessionNameOmitTestTitle":false,"sessionNamePrependTopLevelSuiteTitle":false,"sessionNameFormat":""},"buildTag":[]}
+2025-12-26T20:19:19.224Z CLI info     Should start debug utility: undefined
+2025-12-26T20:19:19.225Z CLI info [testhub:module]  [mhadhbihoussem_GpsWhQ]   [9f3e0b08-354b-4699-a629-07f60160139e]  Starting testhub from 3940:0
+2025-12-26T20:19:19.226Z CLI info  [mhadhbihoussem_GpsWhQ]   [9f3e0b08-354b-4699-a629-07f60160139e]  [PRODUCTION] Making POST request to https://sdk.browserstack.com
+2025-12-26T20:19:20.460Z CLI info [testhub:module]  [mhadhbihoussem_GpsWhQ]   [9f3e0b08-354b-4699-a629-07f60160139e]  startBuild: response=mcimn4dstdqbtnis2cqcg5npmzg3cymtd0bpofnq
+2025-12-26T20:19:20.461Z CLI info  [mhadhbihoussem_GpsWhQ]  [mcimn4dstdqbtnis2cqcg5npmzg3cymtd0bpofnq]  [9f3e0b08-354b-4699-a629-07f60160139e]  [PRODUCTION] Making POST request to https://api.browserstack.com
+2025-12-26T20:19:21.967Z CLI info  [mhadhbihoussem_GpsWhQ]  [mcimn4dstdqbtnis2cqcg5npmzg3cymtd0bpofnq]  [9f3e0b08-354b-4699-a629-07f60160139e]  [PRODUCTION] Making GET request to https://hub.browserstack.com
+2025-12-26T20:19:22.302Z CLI info  [mhadhbihoussem_GpsWhQ]  [mcimn4dstdqbtnis2cqcg5npmzg3cymtd0bpofnq]  [9f3e0b08-354b-4699-a629-07f60160139e]  [PRODUCTION] Making GET request to https://hub-euw.browserstack.com
+2025-12-26T20:19:22.621Z CLI info  [mhadhbihoussem_GpsWhQ]  [mcimn4dstdqbtnis2cqcg5npmzg3cymtd0bpofnq]  [9f3e0b08-354b-4699-a629-07f60160139e]  [PRODUCTION] Making GET request to https://hub-use.browserstack.com
+2025-12-26T20:19:22.634Z CLI info [sdk:service]  [mhadhbihoussem_GpsWhQ]  [mcimn4dstdqbtnis2cqcg5npmzg3cymtd0bpofnq]  [9f3e0b08-354b-4699-a629-07f60160139e]  Driver initialized as primary driver: platformIndex=0
+2025-12-26T20:19:23.044Z CLI info  [mhadhbihoussem_GpsWhQ]  [mcimn4dstdqbtnis2cqcg5npmzg3cymtd0bpofnq]  [9f3e0b08-354b-4699-a629-07f60160139e]  [PRODUCTION] Making GET request to https://hub-aps.browserstack.com
+2025-12-26T20:20:18.932Z CLI info [testhub:request-queue-handler]  [mhadhbihoussem_GpsWhQ]  [mcimn4dstdqbtnis2cqcg5npmzg3cymtd0bpofnq]  [9f3e0b08-354b-4699-a629-07f60160139e]  Added the event {
+  event_type: 'CBTSessionCreated',
+  test_run: {
+    uuid: 'c18c8db3-5347-451e-ac7b-6229f170715e',
+    integrations: { browserstack: [Object] }
+  }
+} to 3940:0
+2025-12-26T20:20:18.933Z CLI error [TEST REPORTING AND ANALYTICS:service]  [mhadhbihoussem_GpsWhQ]  [mcimn4dstdqbtnis2cqcg5npmzg3cymtd0bpofnq]  [9f3e0b08-354b-4699-a629-07f60160139e]  TypeError [ERR_INVALID_ARG_TYPE]: The "to" argument must be of type string. Received undefined
+    at new NodeError (node:internal/errors:405:5)
+    at validateString (node:internal/validators:162:11)
+    at Object.relative (node:path:498:5)
+    at MochaModule.makeFileDetails (C:\snapshot\browserstack-binary\cli\dist\index.js)
+    at MochaModule.sendTestEvent (C:\snapshot\browserstack-binary\cli\dist\index.js)
+    at MochaModule.onTestRunStarted (C:\snapshot\browserstack-binary\cli\dist\index.js)
+    at _0x139aa5 (C:\snapshot\browserstack-binary\cli\dist\index.js)
+    at WebdriverIOModule.runEventAction (C:\snapshot\browserstack-binary\cli\dist\index.js)
+    at WebdriverIOModule.onTestFrameworkEvent (C:\snapshot\browserstack-binary\cli\dist\index.js)
+    at ObservabilityModule.forwardRequest (C:\snapshot\browserstack-binary\cli\dist\index.js)
+2025-12-26T20:20:20.675Z CLI info [testhub:request-queue-handler]  [mhadhbihoussem_GpsWhQ]  [mcimn4dstdqbtnis2cqcg5npmzg3cymtd0bpofnq]  [9f3e0b08-354b-4699-a629-07f60160139e]  Processing batch event [
+  {
+    event_type: 'CBTSessionCreated',
+    test_run: {
+      uuid: 'c18c8db3-5347-451e-ac7b-6229f170715e',
+      integrations: [Object]
+    }
+  }
+] to 3940:0
+2025-12-26T20:20:20.676Z CLI info  [mhadhbihoussem_GpsWhQ]  [mcimn4dstdqbtnis2cqcg5npmzg3cymtd0bpofnq]  [9f3e0b08-354b-4699-a629-07f60160139e]  [PRODUCTION] Making POST request to https://collector-observability.browserstack.com
+2025-12-26T20:20:25.456Z CLI warn [TEST REPORTING AND ANALYTICS:webdriverio:mocha]  [mhadhbihoussem_GpsWhQ]  [mcimn4dstdqbtnis2cqcg5npmzg3cymtd0bpofnq]  [9f3e0b08-354b-4699-a629-07f60160139e]  TestRunFinished: event={"test_framework_name":"WebdriverIO-mocha","test_framework_version":"9.21.0","test_logs":[{"kind":"TEST_LOG","message":{"type":"Buffer","data":[34,10,61,61,61,32,66,114,111,119,115,101,114,83,116,97,99,107,32,83,101,115,115,105,111,110,32,61,61,61,34]},"level":"INFO","timestamp":"2025-12-26T20:20:25.451Z"},{"kind":"TEST_LOG","message":{"type":"Buffer","data":[34,104,116,116,112,115,58,47,47,97,112,112,45,97,117,116,111,109,97,116,101,46,98,114,111,119,115,101,114,115,116,97,99,107,46,99,111,109,47,100,97,115,104,98,111,97,114,100,47,118,50,47,115,101,115,115,105,111,110,115,47,54,56,51,102,52,99,56,97,55,101,54,101,51,97,100,98,48,98,49,49,100,49,56,50,48,52,48,102,99,55,57,53,56,98,102,56,54,51,101,97,34]},"level":"INFO","timestamp":"2025-12-26T20:20:25.452Z"},{"kind":"TEST_LOG","message":{"type":"Buffer","data":[34,61,61,61,61,61,61,61,61,61,61,61,61,61,61,61,61,61,61,61,61,61,61,61,61,61,61,61,10,34]},"level":"INFO","timestamp":"2025-12-26T20:20:25.452Z"}],"test_hooks_finished":{},"test_hooks_started":{},"test_uuid":"c18c8db3-5347-451e-ac7b-6229f170715e","test_result":"passed","test_hook_last_started":"TestFrameworkState.TEST","test_id":"Android Native Feature Tests  - Delete Note & verify Deleted note","test_name":"Delete Note & verify Deleted note","test_code":"async () => {\r\n        //SECTION - Delete Note\r\n        // click on created note to open it by text\r\n        const noteElement = await $('//*[@text=\"FavAnimeList\"]');\r\n        await noteElement.waitForDisplayed({ timeout: 8000 });\r\n        await noteElement.click();\r\n\r\n        // Wait for menu button to be displayed after note opens\r\n        await AddNoteScreen.ThreeDotsMenuBtn.waitForDisplayed({ timeout: 8000 });\r\n\r\n        // Click menu button (3 dots )\r\n        await AddNoteScreen.ThreeDotsMenuBtn.click();\r\n\r\n        // Click Delete option\r\n        await AddNoteScreen.DeleteOption.click();\r\n\r\n        // Confirm deletioncl\r\n        await driver.acceptAlert();\r\n\r\n        //click on nav icon\r\n        await AddNoteScreen.IconNavBtn.click();\r\n        await AddNoteScreen.TrashCanOption.click();\r\n\r\n        // Verify the note is no longer in the main list\r\n        const trashCanItemText = await AddNoteScreen.TrashCanItem.getText();\r\n\r\n        await expect(trashCanItemText).toBe(\"FavAnimeList\");\r\n\r\n\r\n    }","test_location":"test\\specs\\android\\TestsColorNote\\add-notePO.spec.js","test_scope":"Android Native Feature Tests  - Delete Note & verify Deleted note","test_scopes":["Android Native Feature Tests "],"test_started_at":"2025-12-26T20:20:18.915Z","automate_session_name":"Android Native Feature Tests  - Delete Note & verify Deleted note","test_failure":null,"test_failure_reason":null,"test_failure_type":null,"test_ended_at":"2025-12-26T20:20:25.453Z","test_hook_last_finished":"TestFrameworkState.TEST","automate_session_status":"passed","test_deferred":true,"logs":[]}
+2025-12-26T20:20:25.456Z CLI error [TEST REPORTING AND ANALYTICS:service]  [mhadhbihoussem_GpsWhQ]  [mcimn4dstdqbtnis2cqcg5npmzg3cymtd0bpofnq]  [9f3e0b08-354b-4699-a629-07f60160139e]  TypeError [ERR_INVALID_ARG_TYPE]: The "to" argument must be of type string. Received undefined
+    at new NodeError (node:internal/errors:405:5)
+    at validateString (node:internal/validators:162:11)
+    at Object.relative (node:path:498:5)
+    at MochaModule.makeFileDetails (C:\snapshot\browserstack-binary\cli\dist\index.js)
+    at MochaModule.sendTestEvent (C:\snapshot\browserstack-binary\cli\dist\index.js)
+    at MochaModule.onTestRunFinished (C:\snapshot\browserstack-binary\cli\dist\index.js)
+    at _0x139aa5 (C:\snapshot\browserstack-binary\cli\dist\index.js)
+    at WebdriverIOModule.runEventAction (C:\snapshot\browserstack-binary\cli\dist\index.js)
+    at WebdriverIOModule.onTestFrameworkEvent (C:\snapshot\browserstack-binary\cli\dist\index.js)
+    at ObservabilityModule.forwardRequest (C:\snapshot\browserstack-binary\cli\dist\index.js)
+2025-12-26T20:20:29.390Z CLI info  [mhadhbihoussem_GpsWhQ]  [mcimn4dstdqbtnis2cqcg5npmzg3cymtd0bpofnq]  [9f3e0b08-354b-4699-a629-07f60160139e]  [PRODUCTION] Making PUT request to https://collector-observability.browserstack.com
+2025-12-26T20:20:29.700Z CLI info [testhub:module]  [mhadhbihoussem_GpsWhQ]  [mcimn4dstdqbtnis2cqcg5npmzg3cymtd0bpofnq]  [9f3e0b08-354b-4699-a629-07f60160139e]  stopBuild: mcimn4dstdqbtnis2cqcg5npmzg3cymtd0bpofnq request={"finished_at":"2025-12-26T20:20:29.389Z","finished_metadata":[],"custom_metadata":null} response={"data":""}
+2025-12-26T20:20:29.701Z CLI info  [mhadhbihoussem_GpsWhQ]  [mcimn4dstdqbtnis2cqcg5npmzg3cymtd0bpofnq]  [9f3e0b08-354b-4699-a629-07f60160139e]  [PRODUCTION] Making POST request to https://api.browserstack.com
+2025-12-26T20:20:29.702Z CLI info [TEST REPORTING AND ANALYTICS:module]  [mhadhbihoussem_GpsWhQ]  [mcimn4dstdqbtnis2cqcg5npmzg3cymtd0bpofnq]  [9f3e0b08-354b-4699-a629-07f60160139e]  Visit https://automation.browserstack.com/builds/mcimn4dstdqbtnis2cqcg5npmzg3cymtd0bpofnq to view build report, insights, and many more debugging information all at one place!
+2025-12-26T20:20:29.897Z CLI info  [mhadhbihoussem_GpsWhQ]  [mcimn4dstdqbtnis2cqcg5npmzg3cymtd0bpofnq]  [9f3e0b08-354b-4699-a629-07f60160139e]  [PRODUCTION] Making GET request to https://api.browserstack.com
+2025-12-26T20:20:30.095Z CLI info  [mhadhbihoussem_GpsWhQ]  [mcimn4dstdqbtnis2cqcg5npmzg3cymtd0bpofnq]  [9f3e0b08-354b-4699-a629-07f60160139e]  [PRODUCTION] Making POST request to https://eds.browserstack.com
+2025-12-27T09:45:45.408Z CLI info [main]     Server listening on port: 5400
+2025-12-27T09:45:45.447Z CLI info     Config : {"userName":"[REDACTED]","accessKey":"[REDACTED]","platforms":[{"platformName":"Android","appium:deviceName":"Google Pixel 5","appium:platformVersion":"11.0","appium:automationName":"UiAutomator2","appium:app":"bs://35918e6a03680c48497e21350280c67ce0214b17","projectName":"My First WebDriverIO Mobile Project on Android device","buildName":"Test regression","sessionName":"ColorNote - Delete note","debug":true,"networkLogs":true,"deviceLogs":true,"appiumLogs":true,"video":true,"local":false,"interactiveDebugging":true,"wdioService":"9.21.0"}],"isNonBstackA11yWDIO":false,"testReporting":true,"browserstackLocal":false,"testObservability":true,"accessibility":null,"browserStackLocalOptions":{"forceLocal":false},"testContextOptions":{"skipSessionName":false,"skipSessionStatus":false,"sessionNameOmitTestTitle":false,"sessionNamePrependTopLevelSuiteTitle":false,"sessionNameFormat":""},"buildTag":[]}
+2025-12-27T09:45:45.454Z CLI info     Should start debug utility: undefined
+2025-12-27T09:45:45.454Z CLI info [testhub:module]  [mhadhbihoussem_GpsWhQ]   [408af308-6c10-4406-987b-de999765b48c]  Starting testhub from 27904:0
+2025-12-27T09:45:45.455Z CLI info  [mhadhbihoussem_GpsWhQ]   [408af308-6c10-4406-987b-de999765b48c]  [PRODUCTION] Making POST request to https://sdk.browserstack.com
+2025-12-27T09:45:46.229Z CLI info [testhub:module]  [mhadhbihoussem_GpsWhQ]   [408af308-6c10-4406-987b-de999765b48c]  startBuild: response=zgtkylhjerckrgnjgnrovgu7k02hly5brtfb2ue5
+2025-12-27T09:45:46.231Z CLI info  [mhadhbihoussem_GpsWhQ]  [zgtkylhjerckrgnjgnrovgu7k02hly5brtfb2ue5]  [408af308-6c10-4406-987b-de999765b48c]  [PRODUCTION] Making POST request to https://api.browserstack.com
+2025-12-27T09:45:47.870Z CLI info  [mhadhbihoussem_GpsWhQ]  [zgtkylhjerckrgnjgnrovgu7k02hly5brtfb2ue5]  [408af308-6c10-4406-987b-de999765b48c]  [PRODUCTION] Making GET request to https://hub.browserstack.com
+2025-12-27T09:45:48.022Z CLI info  [mhadhbihoussem_GpsWhQ]  [zgtkylhjerckrgnjgnrovgu7k02hly5brtfb2ue5]  [408af308-6c10-4406-987b-de999765b48c]  [PRODUCTION] Making GET request to https://hub-euw.browserstack.com
+2025-12-27T09:45:48.155Z CLI info  [mhadhbihoussem_GpsWhQ]  [zgtkylhjerckrgnjgnrovgu7k02hly5brtfb2ue5]  [408af308-6c10-4406-987b-de999765b48c]  [PRODUCTION] Making GET request to https://hub-use.browserstack.com
+2025-12-27T09:45:48.170Z CLI info [sdk:service]  [mhadhbihoussem_GpsWhQ]  [zgtkylhjerckrgnjgnrovgu7k02hly5brtfb2ue5]  [408af308-6c10-4406-987b-de999765b48c]  Driver initialized as primary driver: platformIndex=0
+2025-12-27T09:45:48.560Z CLI info  [mhadhbihoussem_GpsWhQ]  [zgtkylhjerckrgnjgnrovgu7k02hly5brtfb2ue5]  [408af308-6c10-4406-987b-de999765b48c]  [PRODUCTION] Making GET request to https://hub-aps.browserstack.com
+2025-12-27T09:46:42.585Z CLI info [testhub:request-queue-handler]  [mhadhbihoussem_GpsWhQ]  [zgtkylhjerckrgnjgnrovgu7k02hly5brtfb2ue5]  [408af308-6c10-4406-987b-de999765b48c]  Added the event {
+  event_type: 'CBTSessionCreated',
+  test_run: {
+    uuid: '606ebc47-e31c-43be-8da0-244547b31ec8',
+    integrations: { browserstack: [Object] }
+  }
+} to 27904:0
+2025-12-27T09:46:42.589Z CLI error [TEST REPORTING AND ANALYTICS:service]  [mhadhbihoussem_GpsWhQ]  [zgtkylhjerckrgnjgnrovgu7k02hly5brtfb2ue5]  [408af308-6c10-4406-987b-de999765b48c]  TypeError [ERR_INVALID_ARG_TYPE]: The "to" argument must be of type string. Received undefined
+    at new NodeError (node:internal/errors:405:5)
+    at validateString (node:internal/validators:162:11)
+    at Object.relative (node:path:498:5)
+    at MochaModule.makeFileDetails (C:\snapshot\browserstack-binary\cli\dist\index.js)
+    at MochaModule.sendTestEvent (C:\snapshot\browserstack-binary\cli\dist\index.js)
+    at MochaModule.onTestRunStarted (C:\snapshot\browserstack-binary\cli\dist\index.js)
+    at _0x139aa5 (C:\snapshot\browserstack-binary\cli\dist\index.js)
+    at WebdriverIOModule.runEventAction (C:\snapshot\browserstack-binary\cli\dist\index.js)
+    at WebdriverIOModule.onTestFrameworkEvent (C:\snapshot\browserstack-binary\cli\dist\index.js)
+    at ObservabilityModule.forwardRequest (C:\snapshot\browserstack-binary\cli\dist\index.js)
+2025-12-27T09:46:44.453Z CLI info [testhub:request-queue-handler]  [mhadhbihoussem_GpsWhQ]  [zgtkylhjerckrgnjgnrovgu7k02hly5brtfb2ue5]  [408af308-6c10-4406-987b-de999765b48c]  Processing batch event [
+  {
+    event_type: 'CBTSessionCreated',
+    test_run: {
+      uuid: '606ebc47-e31c-43be-8da0-244547b31ec8',
+      integrations: [Object]
+    }
+  }
+] to 27904:0
+2025-12-27T09:46:44.454Z CLI info  [mhadhbihoussem_GpsWhQ]  [zgtkylhjerckrgnjgnrovgu7k02hly5brtfb2ue5]  [408af308-6c10-4406-987b-de999765b48c]  [PRODUCTION] Making POST request to https://collector-observability.browserstack.com
+2025-12-27T09:46:48.692Z CLI warn [TEST REPORTING AND ANALYTICS:webdriverio:mocha]  [mhadhbihoussem_GpsWhQ]  [zgtkylhjerckrgnjgnrovgu7k02hly5brtfb2ue5]  [408af308-6c10-4406-987b-de999765b48c]  TestRunFinished: event={"test_framework_name":"WebdriverIO-mocha","test_framework_version":"9.21.0","test_logs":[{"kind":"TEST_LOG","message":{"type":"Buffer","data":[34,10,61,61,61,32,66,114,111,119,115,101,114,83,116,97,99,107,32,83,101,115,115,105,111,110,32,61,61,61,34]},"level":"INFO","timestamp":"2025-12-27T09:46:48.684Z"},{"kind":"TEST_LOG","message":{"type":"Buffer","data":[34,104,116,116,112,115,58,47,47,97,112,112,45,97,117,116,111,109,97,116,101,46,98,114,111,119,115,101,114,115,116,97,99,107,46,99,111,109,47,100,97,115,104,98,111,97,114,100,47,118,50,47,115,101,115,115,105,111,110,115,47,48,54,100,97,97,51,56,99,101,52,49,57,100,98,57,97,53,53,99,48,100,98,100,51,100,49,55,53,98,57,57,55,102,101,99,101,54,55,51,48,34]},"level":"INFO","timestamp":"2025-12-27T09:46:48.684Z"},{"kind":"TEST_LOG","message":{"type":"Buffer","data":[34,61,61,61,61,61,61,61,61,61,61,61,61,61,61,61,61,61,61,61,61,61,61,61,61,61,61,61,10,34]},"level":"INFO","timestamp":"2025-12-27T09:46:48.684Z"}],"test_hooks_finished":{},"test_hooks_started":{},"test_uuid":"606ebc47-e31c-43be-8da0-244547b31ec8","test_result":"passed","test_hook_last_started":"TestFrameworkState.TEST","test_id":"Android Native Feature Tests  - Delete Note & verify Deleted note","test_name":"Delete Note & verify Deleted note","test_code":"async () => {\r\n        //SECTION - Delete Note\r\n        // click on created note to open it by text\r\n        const noteElement = await $('//*[@text=\"FavAnimeList\"]');\r\n        await noteElement.waitForDisplayed({ timeout: 8000 });\r\n        await noteElement.click();\r\n\r\n        // Wait for menu button to be displayed after note opens\r\n        await AddNoteScreen.ThreeDotsMenuBtn.waitForDisplayed({ timeout: 8000 });\r\n\r\n        // Click menu button (3 dots )\r\n        await AddNoteScreen.ThreeDotsMenuBtn.click();\r\n\r\n        // Click Delete option\r\n        await AddNoteScreen.DeleteOption.click();\r\n\r\n        // Confirm deletioncl\r\n        await driver.acceptAlert();\r\n\r\n        //click on nav icon\r\n        await AddNoteScreen.IconNavBtn.click();\r\n        await AddNoteScreen.TrashCanOption.click();\r\n\r\n        // Verify the note is no longer in the main list\r\n        const trashCanItemText = await AddNoteScreen.TrashCanItem.getText();\r\n\r\n        await expect(trashCanItemText).toBe(\"FavAnimeList\");\r\n\r\n\r\n    }","test_location":"test\\specs\\android\\TestsColorNote\\add-notePO.spec.js","test_scope":"Android Native Feature Tests  - Delete Note & verify Deleted note","test_scopes":["Android Native Feature Tests "],"test_started_at":"2025-12-27T09:46:42.564Z","automate_session_name":"Android Native Feature Tests  - Delete Note & verify Deleted note","test_failure":null,"test_failure_reason":null,"test_failure_type":null,"test_ended_at":"2025-12-27T09:46:48.686Z","test_hook_last_finished":"TestFrameworkState.TEST","automate_session_status":"passed","test_deferred":true,"logs":[]}
+2025-12-27T09:46:48.693Z CLI error [TEST REPORTING AND ANALYTICS:service]  [mhadhbihoussem_GpsWhQ]  [zgtkylhjerckrgnjgnrovgu7k02hly5brtfb2ue5]  [408af308-6c10-4406-987b-de999765b48c]  TypeError [ERR_INVALID_ARG_TYPE]: The "to" argument must be of type string. Received undefined
+    at new NodeError (node:internal/errors:405:5)
+    at validateString (node:internal/validators:162:11)
+    at Object.relative (node:path:498:5)
+    at MochaModule.makeFileDetails (C:\snapshot\browserstack-binary\cli\dist\index.js)
+    at MochaModule.sendTestEvent (C:\snapshot\browserstack-binary\cli\dist\index.js)
+    at MochaModule.onTestRunFinished (C:\snapshot\browserstack-binary\cli\dist\index.js)
+    at _0x139aa5 (C:\snapshot\browserstack-binary\cli\dist\index.js)
+    at WebdriverIOModule.runEventAction (C:\snapshot\browserstack-binary\cli\dist\index.js)
+    at WebdriverIOModule.onTestFrameworkEvent (C:\snapshot\browserstack-binary\cli\dist\index.js)
+    at ObservabilityModule.forwardRequest (C:\snapshot\browserstack-binary\cli\dist\index.js)
+2025-12-27T09:46:52.517Z CLI info  [mhadhbihoussem_GpsWhQ]  [zgtkylhjerckrgnjgnrovgu7k02hly5brtfb2ue5]  [408af308-6c10-4406-987b-de999765b48c]  [PRODUCTION] Making PUT request to https://collector-observability.browserstack.com
+2025-12-27T09:46:52.836Z CLI info [testhub:module]  [mhadhbihoussem_GpsWhQ]  [zgtkylhjerckrgnjgnrovgu7k02hly5brtfb2ue5]  [408af308-6c10-4406-987b-de999765b48c]  stopBuild: zgtkylhjerckrgnjgnrovgu7k02hly5brtfb2ue5 request={"finished_at":"2025-12-27T09:46:52.517Z","finished_metadata":[],"custom_metadata":null} response={"data":""}
+2025-12-27T09:46:52.837Z CLI info  [mhadhbihoussem_GpsWhQ]  [zgtkylhjerckrgnjgnrovgu7k02hly5brtfb2ue5]  [408af308-6c10-4406-987b-de999765b48c]  [PRODUCTION] Making POST request to https://api.browserstack.com
+2025-12-27T09:46:52.838Z CLI info [TEST REPORTING AND ANALYTICS:module]  [mhadhbihoussem_GpsWhQ]  [zgtkylhjerckrgnjgnrovgu7k02hly5brtfb2ue5]  [408af308-6c10-4406-987b-de999765b48c]  Visit https://automation.browserstack.com/builds/zgtkylhjerckrgnjgnrovgu7k02hly5brtfb2ue5 to view build report, insights, and many more debugging information all at one place!
+2025-12-27T09:46:53.001Z CLI info  [mhadhbihoussem_GpsWhQ]  [zgtkylhjerckrgnjgnrovgu7k02hly5brtfb2ue5]  [408af308-6c10-4406-987b-de999765b48c]  [PRODUCTION] Making GET request to https://api.browserstack.com
+2025-12-27T09:46:53.184Z CLI info  [mhadhbihoussem_GpsWhQ]  [zgtkylhjerckrgnjgnrovgu7k02hly5brtfb2ue5]  [408af308-6c10-4406-987b-de999765b48c]  [PRODUCTION] Making POST request to https://eds.browserstack.com
+2025-12-27T10:04:01.396Z CLI info [main]     Server listening on port: 5400
+2025-12-27T10:04:01.421Z CLI info     Config : {"userName":"[REDACTED]","accessKey":"[REDACTED]","platforms":[{"platformName":"Android","appium:deviceName":"Google Pixel 5","appium:platformVersion":"11.0","appium:automationName":"UiAutomator2","appium:app":"bs://35918e6a03680c48497e21350280c67ce0214b17","projectName":"My First WebDriverIO Mobile Project on Android device","buildName":"Test regression","sessionName":"ColorNote - Delete note","debug":true,"networkLogs":true,"deviceLogs":true,"appiumLogs":true,"video":true,"local":false,"interactiveDebugging":true,"consoleLogs":"verbose","buildTag":"regression","buildIdentifier":"1766829840174","wdioService":"9.21.0"}],"isNonBstackA11yWDIO":false,"testObservability":true,"testObservabilityOptions":{"projectName":"My First WebDriverIO Mobile Project","buildName":"Test regression","buildTag":"android-tests"},"browserstackLocal":false,"accessibility":null,"browserStackLocalOptions":{"forceLocal":false},"testContextOptions":{"skipSessionName":false,"skipSessionStatus":false,"sessionNameOmitTestTitle":false,"sessionNamePrependTopLevelSuiteTitle":false,"sessionNameFormat":""},"buildName":"Test regression","projectName":"My First WebDriverIO Mobile Project","buildTag":"android-tests"}
+2025-12-27T10:04:01.424Z CLI info     Should start debug utility: undefined
+2025-12-27T10:04:01.425Z CLI info [testhub:module]  [mhadhbihoussem_GpsWhQ]   [7eb08ff2-fb03-40c2-8c8e-7b5e8127c0eb]  Starting testhub from 2652:0
+2025-12-27T10:04:01.426Z CLI info  [mhadhbihoussem_GpsWhQ]   [7eb08ff2-fb03-40c2-8c8e-7b5e8127c0eb]  [PRODUCTION] Making POST request to https://sdk.browserstack.com
+2025-12-27T10:04:02.558Z CLI info [testhub:module]  [mhadhbihoussem_GpsWhQ]   [7eb08ff2-fb03-40c2-8c8e-7b5e8127c0eb]  startBuild: response=rb9uuphpruru7pwzdnbk1e0jlzugygrcfwjzgrvu
+2025-12-27T10:04:02.559Z CLI info  [mhadhbihoussem_GpsWhQ]  [rb9uuphpruru7pwzdnbk1e0jlzugygrcfwjzgrvu]  [7eb08ff2-fb03-40c2-8c8e-7b5e8127c0eb]  [PRODUCTION] Making POST request to https://api.browserstack.com
+2025-12-27T10:04:03.822Z CLI info  [mhadhbihoussem_GpsWhQ]  [rb9uuphpruru7pwzdnbk1e0jlzugygrcfwjzgrvu]  [7eb08ff2-fb03-40c2-8c8e-7b5e8127c0eb]  [PRODUCTION] Making GET request to https://hub.browserstack.com
+2025-12-27T10:04:03.968Z CLI info  [mhadhbihoussem_GpsWhQ]  [rb9uuphpruru7pwzdnbk1e0jlzugygrcfwjzgrvu]  [7eb08ff2-fb03-40c2-8c8e-7b5e8127c0eb]  [PRODUCTION] Making GET request to https://hub-euw.browserstack.com
+2025-12-27T10:04:04.105Z CLI info  [mhadhbihoussem_GpsWhQ]  [rb9uuphpruru7pwzdnbk1e0jlzugygrcfwjzgrvu]  [7eb08ff2-fb03-40c2-8c8e-7b5e8127c0eb]  [PRODUCTION] Making GET request to https://hub-use.browserstack.com
+2025-12-27T10:04:04.116Z CLI info [sdk:service]  [mhadhbihoussem_GpsWhQ]  [rb9uuphpruru7pwzdnbk1e0jlzugygrcfwjzgrvu]  [7eb08ff2-fb03-40c2-8c8e-7b5e8127c0eb]  Driver initialized as primary driver: platformIndex=0
+2025-12-27T10:04:04.493Z CLI info  [mhadhbihoussem_GpsWhQ]  [rb9uuphpruru7pwzdnbk1e0jlzugygrcfwjzgrvu]  [7eb08ff2-fb03-40c2-8c8e-7b5e8127c0eb]  [PRODUCTION] Making GET request to https://hub-aps.browserstack.com
+2025-12-27T10:04:05.231Z CLI info  [mhadhbihoussem_GpsWhQ]  [rb9uuphpruru7pwzdnbk1e0jlzugygrcfwjzgrvu]  [7eb08ff2-fb03-40c2-8c8e-7b5e8127c0eb]  [PRODUCTION] Making PUT request to https://collector-observability.browserstack.com
+2025-12-27T10:04:05.543Z CLI info [testhub:module]  [mhadhbihoussem_GpsWhQ]  [rb9uuphpruru7pwzdnbk1e0jlzugygrcfwjzgrvu]  [7eb08ff2-fb03-40c2-8c8e-7b5e8127c0eb]  stopBuild: rb9uuphpruru7pwzdnbk1e0jlzugygrcfwjzgrvu request={"finished_at":"2025-12-27T10:04:04.448Z","finished_metadata":[],"custom_metadata":null} response={"data":""}
+2025-12-27T10:04:05.544Z CLI info  [mhadhbihoussem_GpsWhQ]  [rb9uuphpruru7pwzdnbk1e0jlzugygrcfwjzgrvu]  [7eb08ff2-fb03-40c2-8c8e-7b5e8127c0eb]  [PRODUCTION] Making POST request to https://api.browserstack.com
+2025-12-27T10:04:05.544Z CLI info [TEST REPORTING AND ANALYTICS:module]  [mhadhbihoussem_GpsWhQ]  [rb9uuphpruru7pwzdnbk1e0jlzugygrcfwjzgrvu]  [7eb08ff2-fb03-40c2-8c8e-7b5e8127c0eb]  Visit https://automation.browserstack.com/builds/rb9uuphpruru7pwzdnbk1e0jlzugygrcfwjzgrvu to view build report, insights, and many more debugging information all at one place!
+2025-12-27T10:04:05.954Z CLI info  [mhadhbihoussem_GpsWhQ]  [rb9uuphpruru7pwzdnbk1e0jlzugygrcfwjzgrvu]  [7eb08ff2-fb03-40c2-8c8e-7b5e8127c0eb]  [PRODUCTION] Making GET request to https://api.browserstack.com
+2025-12-27T10:04:06.124Z CLI info  [mhadhbihoussem_GpsWhQ]  [rb9uuphpruru7pwzdnbk1e0jlzugygrcfwjzgrvu]  [7eb08ff2-fb03-40c2-8c8e-7b5e8127c0eb]  [PRODUCTION] Making POST request to https://eds.browserstack.com
+2025-12-27T10:04:59.000Z CLI info [main]     Server listening on port: 5400
+2025-12-27T10:04:59.027Z CLI info     Config : {"userName":"[REDACTED]","accessKey":"[REDACTED]","platforms":[{"platformName":"Android","appium:deviceName":"Google Pixel 5","appium:platformVersion":"11.0","appium:automationName":"UiAutomator2","appium:app":"bs://35918e6a03680c48497e21350280c67ce0214b17","projectName":"My First WebDriverIO Mobile Project on Android device","buildName":"Test regression","sessionName":"ColorNote - Delete note","debug":true,"networkLogs":true,"deviceLogs":true,"appiumLogs":true,"video":true,"local":false,"interactiveDebugging":true,"consoleLogs":"verbose","buildTag":"regression","buildIdentifier":"1766829897812","wdioService":"9.21.0"}],"isNonBstackA11yWDIO":false,"testObservability":true,"testObservabilityOptions":{"projectName":"My First WebDriverIO Mobile Project","buildName":"Test regression","buildTag":"android-tests"},"browserstackLocal":false,"accessibility":null,"browserStackLocalOptions":{"forceLocal":false},"testContextOptions":{"skipSessionName":false,"skipSessionStatus":false,"sessionNameOmitTestTitle":false,"sessionNamePrependTopLevelSuiteTitle":false,"sessionNameFormat":""},"buildName":"Test regression","projectName":"My First WebDriverIO Mobile Project","buildTag":"android-tests"}
+2025-12-27T10:04:59.032Z CLI info     Should start debug utility: undefined
+2025-12-27T10:04:59.032Z CLI info [testhub:module]  [mhadhbihoussem_GpsWhQ]   [b3245654-3bd8-40d2-9def-557511997ef8]  Starting testhub from 19512:0
+2025-12-27T10:04:59.033Z CLI info  [mhadhbihoussem_GpsWhQ]   [b3245654-3bd8-40d2-9def-557511997ef8]  [PRODUCTION] Making POST request to https://sdk.browserstack.com
+2025-12-27T10:04:59.852Z CLI info [testhub:module]  [mhadhbihoussem_GpsWhQ]   [b3245654-3bd8-40d2-9def-557511997ef8]  startBuild: response=0otltduddzeoyrqdpqx45l9hb1wdxka2k2gsva33
+2025-12-27T10:04:59.854Z CLI info  [mhadhbihoussem_GpsWhQ]  [0otltduddzeoyrqdpqx45l9hb1wdxka2k2gsva33]  [b3245654-3bd8-40d2-9def-557511997ef8]  [PRODUCTION] Making POST request to https://api.browserstack.com
+2025-12-27T10:05:01.079Z CLI info  [mhadhbihoussem_GpsWhQ]  [0otltduddzeoyrqdpqx45l9hb1wdxka2k2gsva33]  [b3245654-3bd8-40d2-9def-557511997ef8]  [PRODUCTION] Making GET request to https://hub.browserstack.com
+2025-12-27T10:05:01.201Z CLI info  [mhadhbihoussem_GpsWhQ]  [0otltduddzeoyrqdpqx45l9hb1wdxka2k2gsva33]  [b3245654-3bd8-40d2-9def-557511997ef8]  [PRODUCTION] Making GET request to https://hub-euw.browserstack.com
+2025-12-27T10:05:01.321Z CLI info  [mhadhbihoussem_GpsWhQ]  [0otltduddzeoyrqdpqx45l9hb1wdxka2k2gsva33]  [b3245654-3bd8-40d2-9def-557511997ef8]  [PRODUCTION] Making GET request to https://hub-use.browserstack.com
+2025-12-27T10:05:01.334Z CLI info [sdk:service]  [mhadhbihoussem_GpsWhQ]  [0otltduddzeoyrqdpqx45l9hb1wdxka2k2gsva33]  [b3245654-3bd8-40d2-9def-557511997ef8]  Driver initialized as primary driver: platformIndex=0
+2025-12-27T10:05:01.689Z CLI info  [mhadhbihoussem_GpsWhQ]  [0otltduddzeoyrqdpqx45l9hb1wdxka2k2gsva33]  [b3245654-3bd8-40d2-9def-557511997ef8]  [PRODUCTION] Making GET request to https://hub-aps.browserstack.com
+2025-12-27T10:05:02.279Z CLI info  [mhadhbihoussem_GpsWhQ]  [0otltduddzeoyrqdpqx45l9hb1wdxka2k2gsva33]  [b3245654-3bd8-40d2-9def-557511997ef8]  [PRODUCTION] Making PUT request to https://collector-observability.browserstack.com
+2025-12-27T10:05:02.581Z CLI info [testhub:module]  [mhadhbihoussem_GpsWhQ]  [0otltduddzeoyrqdpqx45l9hb1wdxka2k2gsva33]  [b3245654-3bd8-40d2-9def-557511997ef8]  stopBuild: 0otltduddzeoyrqdpqx45l9hb1wdxka2k2gsva33 request={"finished_at":"2025-12-27T10:05:01.660Z","finished_metadata":[],"custom_metadata":null} response={"data":""}
+2025-12-27T10:05:02.582Z CLI info  [mhadhbihoussem_GpsWhQ]  [0otltduddzeoyrqdpqx45l9hb1wdxka2k2gsva33]  [b3245654-3bd8-40d2-9def-557511997ef8]  [PRODUCTION] Making POST request to https://api.browserstack.com
+2025-12-27T10:05:02.582Z CLI info [TEST REPORTING AND ANALYTICS:module]  [mhadhbihoussem_GpsWhQ]  [0otltduddzeoyrqdpqx45l9hb1wdxka2k2gsva33]  [b3245654-3bd8-40d2-9def-557511997ef8]  Visit https://automation.browserstack.com/builds/0otltduddzeoyrqdpqx45l9hb1wdxka2k2gsva33 to view build report, insights, and many more debugging information all at one place!
+2025-12-27T10:05:02.763Z CLI info  [mhadhbihoussem_GpsWhQ]  [0otltduddzeoyrqdpqx45l9hb1wdxka2k2gsva33]  [b3245654-3bd8-40d2-9def-557511997ef8]  [PRODUCTION] Making GET request to https://api.browserstack.com
+2025-12-27T10:05:02.933Z CLI info  [mhadhbihoussem_GpsWhQ]  [0otltduddzeoyrqdpqx45l9hb1wdxka2k2gsva33]  [b3245654-3bd8-40d2-9def-557511997ef8]  [PRODUCTION] Making POST request to https://eds.browserstack.com
+2025-12-27T10:43:27.221Z CLI info [main]     Server listening on port: 5400
+2025-12-27T10:43:27.250Z CLI info     Config : {"userName":"[REDACTED]","accessKey":"[REDACTED]","platforms":[{"platformName":"Android","appium:deviceName":"Google Pixel 5","appium:platformVersion":"11.0","appium:automationName":"UiAutomator2","appium:app":"bs://35918e6a03680c48497e21350280c67ce0214b17","projectName":"My First WebDriverIO Mobile Project on Android device","buildName":"Test regression","sessionName":"ColorNote - Delete note","debug":true,"networkLogs":true,"deviceLogs":true,"appiumLogs":true,"video":true,"local":false,"interactiveDebugging":true,"consoleLogs":"verbose","buildTag":"regression","buildIdentifier":"1766832205974","wdioService":"9.21.0"}],"isNonBstackA11yWDIO":false,"testObservability":true,"testObservabilityOptions":{"projectName":"My First WebDriverIO Mobile Project","buildName":"Test regression","buildTag":"android-tests"},"browserstackLocal":false,"accessibility":null,"browserStackLocalOptions":{"forceLocal":false},"testContextOptions":{"skipSessionName":false,"skipSessionStatus":false,"sessionNameOmitTestTitle":false,"sessionNamePrependTopLevelSuiteTitle":false,"sessionNameFormat":""},"buildName":"Test regression","projectName":"My First WebDriverIO Mobile Project","buildTag":"android-tests"}
+2025-12-27T10:43:27.253Z CLI info     Should start debug utility: undefined
+2025-12-27T10:43:27.254Z CLI info [testhub:module]  [mhadhbihoussem_GpsWhQ]   [4490f878-6e0d-4fed-9c0a-f0af269afb1a]  Starting testhub from 13844:0
+2025-12-27T10:43:27.256Z CLI info  [mhadhbihoussem_GpsWhQ]   [4490f878-6e0d-4fed-9c0a-f0af269afb1a]  [PRODUCTION] Making POST request to https://sdk.browserstack.com
+2025-12-27T10:43:28.069Z CLI info [testhub:module]  [mhadhbihoussem_GpsWhQ]   [4490f878-6e0d-4fed-9c0a-f0af269afb1a]  startBuild: response=pgv68678z3ewjelsd1hjt3vrvqp6psaqc4fvelpl
+2025-12-27T10:43:28.070Z CLI info  [mhadhbihoussem_GpsWhQ]  [pgv68678z3ewjelsd1hjt3vrvqp6psaqc4fvelpl]  [4490f878-6e0d-4fed-9c0a-f0af269afb1a]  [PRODUCTION] Making POST request to https://api.browserstack.com
+2025-12-27T10:43:29.406Z CLI info  [mhadhbihoussem_GpsWhQ]  [pgv68678z3ewjelsd1hjt3vrvqp6psaqc4fvelpl]  [4490f878-6e0d-4fed-9c0a-f0af269afb1a]  [PRODUCTION] Making GET request to https://hub.browserstack.com
+2025-12-27T10:43:29.582Z CLI info  [mhadhbihoussem_GpsWhQ]  [pgv68678z3ewjelsd1hjt3vrvqp6psaqc4fvelpl]  [4490f878-6e0d-4fed-9c0a-f0af269afb1a]  [PRODUCTION] Making GET request to https://hub-euw.browserstack.com
+2025-12-27T10:43:29.707Z CLI info  [mhadhbihoussem_GpsWhQ]  [pgv68678z3ewjelsd1hjt3vrvqp6psaqc4fvelpl]  [4490f878-6e0d-4fed-9c0a-f0af269afb1a]  [PRODUCTION] Making GET request to https://hub-use.browserstack.com
+2025-12-27T10:43:29.723Z CLI info [sdk:service]  [mhadhbihoussem_GpsWhQ]  [pgv68678z3ewjelsd1hjt3vrvqp6psaqc4fvelpl]  [4490f878-6e0d-4fed-9c0a-f0af269afb1a]  Driver initialized as primary driver: platformIndex=0
+2025-12-27T10:43:30.128Z CLI info  [mhadhbihoussem_GpsWhQ]  [pgv68678z3ewjelsd1hjt3vrvqp6psaqc4fvelpl]  [4490f878-6e0d-4fed-9c0a-f0af269afb1a]  [PRODUCTION] Making GET request to https://hub-aps.browserstack.com
+2025-12-27T10:43:30.738Z CLI info  [mhadhbihoussem_GpsWhQ]  [pgv68678z3ewjelsd1hjt3vrvqp6psaqc4fvelpl]  [4490f878-6e0d-4fed-9c0a-f0af269afb1a]  [PRODUCTION] Making PUT request to https://collector-observability.browserstack.com
+2025-12-27T10:43:31.055Z CLI info [testhub:module]  [mhadhbihoussem_GpsWhQ]  [pgv68678z3ewjelsd1hjt3vrvqp6psaqc4fvelpl]  [4490f878-6e0d-4fed-9c0a-f0af269afb1a]  stopBuild: pgv68678z3ewjelsd1hjt3vrvqp6psaqc4fvelpl request={"finished_at":"2025-12-27T10:43:30.058Z","finished_metadata":[],"custom_metadata":null} response={"data":""}
+2025-12-27T10:43:31.056Z CLI info  [mhadhbihoussem_GpsWhQ]  [pgv68678z3ewjelsd1hjt3vrvqp6psaqc4fvelpl]  [4490f878-6e0d-4fed-9c0a-f0af269afb1a]  [PRODUCTION] Making POST request to https://api.browserstack.com
+2025-12-27T10:43:31.057Z CLI info [TEST REPORTING AND ANALYTICS:module]  [mhadhbihoussem_GpsWhQ]  [pgv68678z3ewjelsd1hjt3vrvqp6psaqc4fvelpl]  [4490f878-6e0d-4fed-9c0a-f0af269afb1a]  Visit https://automation.browserstack.com/builds/pgv68678z3ewjelsd1hjt3vrvqp6psaqc4fvelpl to view build report, insights, and many more debugging information all at one place!
+2025-12-27T10:43:31.232Z CLI info  [mhadhbihoussem_GpsWhQ]  [pgv68678z3ewjelsd1hjt3vrvqp6psaqc4fvelpl]  [4490f878-6e0d-4fed-9c0a-f0af269afb1a]  [PRODUCTION] Making GET request to https://api.browserstack.com
+2025-12-27T10:43:31.408Z CLI info  [mhadhbihoussem_GpsWhQ]  [pgv68678z3ewjelsd1hjt3vrvqp6psaqc4fvelpl]  [4490f878-6e0d-4fed-9c0a-f0af269afb1a]  [PRODUCTION] Making POST request to https://eds.browserstack.com
+2025-12-27T10:49:06.993Z CLI info [main]     Server listening on port: 5400
+2025-12-27T10:49:07.017Z CLI info     Config : {"userName":"[REDACTED]","accessKey":"[REDACTED]","platforms":[{"platformName":"Android","appium:deviceName":"Google Pixel 5","appium:platformVersion":"11.0","appium:automationName":"UiAutomator2","appium:app":"bs://35918e6a03680c48497e21350280c67ce0214b17","projectName":"My First WebDriverIO Mobile Project on Android device","buildName":"Test regression","sessionName":"ColorNote - Delete note","debug":true,"networkLogs":true,"deviceLogs":true,"appiumLogs":true,"video":true,"local":false,"interactiveDebugging":true,"consoleLogs":"verbose","buildTag":"regression","buildIdentifier":"1766832545687","wdioService":"9.21.0"}],"isNonBstackA11yWDIO":false,"testObservability":true,"testObservabilityOptions":{"projectName":"My First WebDriverIO Mobile Project","buildName":"Test regression","buildTag":"android-tests"},"browserstackLocal":false,"accessibility":null,"browserStackLocalOptions":{"forceLocal":false},"testContextOptions":{"skipSessionName":false,"skipSessionStatus":false,"sessionNameOmitTestTitle":false,"sessionNamePrependTopLevelSuiteTitle":false,"sessionNameFormat":""},"buildName":"Test regression","projectName":"My First WebDriverIO Mobile Project","buildTag":"android-tests"}
+2025-12-27T10:49:07.022Z CLI info     Should start debug utility: undefined
+2025-12-27T10:49:07.023Z CLI info [testhub:module]  [mhadhbihoussem_GpsWhQ]   [b871b950-2ec7-4ab8-b2f5-2c2504b81795]  Starting testhub from 20968:0
+2025-12-27T10:49:07.024Z CLI info  [mhadhbihoussem_GpsWhQ]   [b871b950-2ec7-4ab8-b2f5-2c2504b81795]  [PRODUCTION] Making POST request to https://sdk.browserstack.com
+2025-12-27T10:49:08.134Z CLI info [testhub:module]  [mhadhbihoussem_GpsWhQ]   [b871b950-2ec7-4ab8-b2f5-2c2504b81795]  startBuild: response=6f2fnfedooxs9cxbcpqyuohj4uy6ok0jvd7lfhyl
+2025-12-27T10:49:08.136Z CLI info  [mhadhbihoussem_GpsWhQ]  [6f2fnfedooxs9cxbcpqyuohj4uy6ok0jvd7lfhyl]  [b871b950-2ec7-4ab8-b2f5-2c2504b81795]  [PRODUCTION] Making POST request to https://api.browserstack.com
+2025-12-27T10:49:09.430Z CLI info  [mhadhbihoussem_GpsWhQ]  [6f2fnfedooxs9cxbcpqyuohj4uy6ok0jvd7lfhyl]  [b871b950-2ec7-4ab8-b2f5-2c2504b81795]  [PRODUCTION] Making GET request to https://hub.browserstack.com
+2025-12-27T10:49:09.588Z CLI info  [mhadhbihoussem_GpsWhQ]  [6f2fnfedooxs9cxbcpqyuohj4uy6ok0jvd7lfhyl]  [b871b950-2ec7-4ab8-b2f5-2c2504b81795]  [PRODUCTION] Making GET request to https://hub-euw.browserstack.com
+2025-12-27T10:49:09.724Z CLI info  [mhadhbihoussem_GpsWhQ]  [6f2fnfedooxs9cxbcpqyuohj4uy6ok0jvd7lfhyl]  [b871b950-2ec7-4ab8-b2f5-2c2504b81795]  [PRODUCTION] Making GET request to https://hub-use.browserstack.com
+2025-12-27T10:49:09.737Z CLI info [sdk:service]  [mhadhbihoussem_GpsWhQ]  [6f2fnfedooxs9cxbcpqyuohj4uy6ok0jvd7lfhyl]  [b871b950-2ec7-4ab8-b2f5-2c2504b81795]  Driver initialized as primary driver: platformIndex=0
+2025-12-27T10:49:10.135Z CLI info  [mhadhbihoussem_GpsWhQ]  [6f2fnfedooxs9cxbcpqyuohj4uy6ok0jvd7lfhyl]  [b871b950-2ec7-4ab8-b2f5-2c2504b81795]  [PRODUCTION] Making GET request to https://hub-aps.browserstack.com
+2025-12-27T10:50:01.664Z CLI info [testhub:request-queue-handler]  [mhadhbihoussem_GpsWhQ]  [6f2fnfedooxs9cxbcpqyuohj4uy6ok0jvd7lfhyl]  [b871b950-2ec7-4ab8-b2f5-2c2504b81795]  Added the event {
+  event_type: 'CBTSessionCreated',
+  test_run: {
+    uuid: '879f8d8a-c65e-463d-9843-6f12265e3df8',
+    integrations: { browserstack: [Object] }
+  }
+} to 20968:0
+2025-12-27T10:50:01.668Z CLI error [TEST REPORTING AND ANALYTICS:service]  [mhadhbihoussem_GpsWhQ]  [6f2fnfedooxs9cxbcpqyuohj4uy6ok0jvd7lfhyl]  [b871b950-2ec7-4ab8-b2f5-2c2504b81795]  TypeError [ERR_INVALID_ARG_TYPE]: The "to" argument must be of type string. Received undefined
+    at new NodeError (node:internal/errors:405:5)
+    at validateString (node:internal/validators:162:11)
+    at Object.relative (node:path:498:5)
+    at MochaModule.makeFileDetails (C:\snapshot\browserstack-binary\cli\dist\index.js)
+    at MochaModule.sendTestEvent (C:\snapshot\browserstack-binary\cli\dist\index.js)
+    at MochaModule.onTestRunStarted (C:\snapshot\browserstack-binary\cli\dist\index.js)
+    at _0x139aa5 (C:\snapshot\browserstack-binary\cli\dist\index.js)
+    at WebdriverIOModule.runEventAction (C:\snapshot\browserstack-binary\cli\dist\index.js)
+    at WebdriverIOModule.onTestFrameworkEvent (C:\snapshot\browserstack-binary\cli\dist\index.js)
+    at ObservabilityModule.forwardRequest (C:\snapshot\browserstack-binary\cli\dist\index.js)
+2025-12-27T10:50:02.316Z CLI info [testhub:request-queue-handler]  [mhadhbihoussem_GpsWhQ]  [6f2fnfedooxs9cxbcpqyuohj4uy6ok0jvd7lfhyl]  [b871b950-2ec7-4ab8-b2f5-2c2504b81795]  Processing batch event [
+  {
+    event_type: 'CBTSessionCreated',
+    test_run: {
+      uuid: '879f8d8a-c65e-463d-9843-6f12265e3df8',
+      integrations: [Object]
+    }
+  }
+] to 20968:0
+2025-12-27T10:50:02.318Z CLI info  [mhadhbihoussem_GpsWhQ]  [6f2fnfedooxs9cxbcpqyuohj4uy6ok0jvd7lfhyl]  [b871b950-2ec7-4ab8-b2f5-2c2504b81795]  [PRODUCTION] Making POST request to https://collector-observability.browserstack.com
+2025-12-27T10:50:07.795Z CLI warn [TEST REPORTING AND ANALYTICS:webdriverio:mocha]  [mhadhbihoussem_GpsWhQ]  [6f2fnfedooxs9cxbcpqyuohj4uy6ok0jvd7lfhyl]  [b871b950-2ec7-4ab8-b2f5-2c2504b81795]  TestRunFinished: event={"test_framework_name":"WebdriverIO-mocha","test_framework_version":"9.21.0","test_logs":[{"kind":"TEST_LOG","message":{"type":"Buffer","data":[34,10,226,156,133,32,80,65,83,83,69,68,32,84,101,115,116,58,32,68,101,108,101,116,101,32,78,111,116,101,32,38,32,118,101,114,105,102,121,32,68,101,108,101,116,101,100,32,110,111,116,101,34]},"level":"INFO","timestamp":"2025-12-27T10:50:07.787Z"},{"kind":"TEST_LOG","message":{"type":"Buffer","data":[34,226,143,177,239,184,143,32,32,68,117,114,97,116,105,111,110,58,32,54,49,52,48,109,115,34]},"level":"INFO","timestamp":"2025-12-27T10:50:07.787Z"},{"kind":"TEST_LOG","message":{"type":"Buffer","data":[34,10,226,149,148,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,151,34]},"level":"INFO","timestamp":"2025-12-27T10:50:07.787Z"},{"kind":"TEST_LOG","message":{"type":"Buffer","data":[34,226,149,145,32,32,32,32,32,32,32,32,32,32,66,114,111,119,115,101,114,83,116,97,99,107,32,83,101,115,115,105,111,110,32,68,101,116,97,105,108,115,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,226,149,145,34]},"level":"INFO","timestamp":"2025-12-27T10:50:07.787Z"},{"kind":"TEST_LOG","message":{"type":"Buffer","data":[34,226,149,160,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,163,34]},"level":"INFO","timestamp":"2025-12-27T10:50:07.787Z"},{"kind":"TEST_LOG","message":{"type":"Buffer","data":[34,226,149,145,32,83,116,97,116,117,115,58,32,226,156,133,32,80,65,83,83,69,68,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,226,149,145,34]},"level":"INFO","timestamp":"2025-12-27T10:50:07.787Z"},{"kind":"TEST_LOG","message":{"type":"Buffer","data":[34,226,149,145,32,86,105,101,119,32,76,105,118,101,32,83,101,115,115,105,111,110,32,38,32,86,105,100,101,111,58,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,226,149,145,34]},"level":"INFO","timestamp":"2025-12-27T10:50:07.787Z"},{"kind":"TEST_LOG","message":{"type":"Buffer","data":[34,226,149,145,32,104,116,116,112,115,58,47,47,97,112,112,45,97,117,116,111,109,97,116,101,46,98,114,111,119,115,101,114,115,116,97,99,107,46,99,111,109,47,100,97,115,104,98,111,97,114,100,47,118,50,47,115,101,115,115,105,111,110,115,47,48,53,57,56,52,55,52,98,48,98,101,54,55,52,48,49,57,56,97,97,97,57,48,98,54,52,49,102,101,49,98,54,97,54,56,52,55,102,97,51,32,226,149,145,34]},"level":"INFO","timestamp":"2025-12-27T10:50:07.787Z"},{"kind":"TEST_LOG","message":{"type":"Buffer","data":[34,226,149,154,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,157,10,34]},"level":"INFO","timestamp":"2025-12-27T10:50:07.787Z"}],"test_hooks_finished":{},"test_hooks_started":{},"test_uuid":"879f8d8a-c65e-463d-9843-6f12265e3df8","test_result":"passed","test_hook_last_started":"TestFrameworkState.TEST","test_id":"Android Native Feature Tests  - Delete Note & verify Deleted note","test_name":"Delete Note & verify Deleted note","test_code":"async () => {\r\n        //SECTION - Delete Note\r\n        // click on created note to open it by text\r\n        const noteElement = await $('//*[@text=\"FavAnimeList\"]');\r\n        await noteElement.waitForDisplayed({ timeout: 8000 });\r\n        await noteElement.click();\r\n\r\n        // Wait for menu button to be displayed after note opens\r\n        await AddNoteScreen.ThreeDotsMenuBtn.waitForDisplayed({ timeout: 8000 });\r\n\r\n        // Click menu button (3 dots )\r\n        await AddNoteScreen.ThreeDotsMenuBtn.click();\r\n\r\n        // Click Delete option\r\n        await AddNoteScreen.DeleteOption.click();\r\n\r\n        // Confirm deletioncl\r\n        await driver.acceptAlert();\r\n\r\n        //click on nav icon\r\n        await AddNoteScreen.IconNavBtn.click();\r\n        await AddNoteScreen.TrashCanOption.click();\r\n\r\n        // Verify the note is no longer in the main list\r\n        const trashCanItemText = await AddNoteScreen.TrashCanItem.getText();\r\n\r\n        await expect(trashCanItemText).toBe(\"FavAnimeList\");\r\n\r\n\r\n    }","test_location":"test\\specs\\android\\TestsColorNote\\add-notePO.spec.js","test_scope":"Android Native Feature Tests  - Delete Note & verify Deleted note","test_scopes":["Android Native Feature Tests "],"test_started_at":"2025-12-27T10:50:01.638Z","automate_session_name":"Android Native Feature Tests  - Delete Note & verify Deleted note","test_failure":null,"test_failure_reason":null,"test_failure_type":null,"test_ended_at":"2025-12-27T10:50:07.791Z","test_hook_last_finished":"TestFrameworkState.TEST","automate_session_status":"passed","test_deferred":true,"logs":[]}
+2025-12-27T10:50:07.796Z CLI error [TEST REPORTING AND ANALYTICS:service]  [mhadhbihoussem_GpsWhQ]  [6f2fnfedooxs9cxbcpqyuohj4uy6ok0jvd7lfhyl]  [b871b950-2ec7-4ab8-b2f5-2c2504b81795]  TypeError [ERR_INVALID_ARG_TYPE]: The "to" argument must be of type string. Received undefined
+    at new NodeError (node:internal/errors:405:5)
+    at validateString (node:internal/validators:162:11)
+    at Object.relative (node:path:498:5)
+    at MochaModule.makeFileDetails (C:\snapshot\browserstack-binary\cli\dist\index.js)
+    at MochaModule.sendTestEvent (C:\snapshot\browserstack-binary\cli\dist\index.js)
+    at MochaModule.onTestRunFinished (C:\snapshot\browserstack-binary\cli\dist\index.js)
+    at _0x139aa5 (C:\snapshot\browserstack-binary\cli\dist\index.js)
+    at WebdriverIOModule.runEventAction (C:\snapshot\browserstack-binary\cli\dist\index.js)
+    at WebdriverIOModule.onTestFrameworkEvent (C:\snapshot\browserstack-binary\cli\dist\index.js)
+    at ObservabilityModule.forwardRequest (C:\snapshot\browserstack-binary\cli\dist\index.js)
+2025-12-27T10:50:08.466Z CLI info [testhub:request-queue-handler]  [mhadhbihoussem_GpsWhQ]  [6f2fnfedooxs9cxbcpqyuohj4uy6ok0jvd7lfhyl]  [b871b950-2ec7-4ab8-b2f5-2c2504b81795]  Added the event {
+  event_type: 'LogCreated',
+  logs: [
+    {
+      testFrameworkName: 'WebdriverIO-mocha',
+      testFrameworkVersion: '9.21.0',
+      testFrameworkState: 'LOG',
+      timestamp: '2025-12-27T10:50:07.787Z',
+      uuid: '879f8d8a-c65e-463d-9843-6f12265e3df8',
+      kind: 'TEST_LOG',
+      message: '"\n✅ PASSED Test: Delete Note & verify Deleted note"',
+      level: 'INFO',
+      fileName: '',
+      fileSize: [Long],
+      filePath: '',
+      test_run_uuid: '879f8d8a-c65e-463d-9843-6f12265e3df8'
+    },
+    {
+      testFrameworkName: 'WebdriverIO-mocha',
+      testFrameworkVersion: '9.21.0',
+      testFrameworkState: 'LOG',
+      timestamp: '2025-12-27T10:50:07.787Z',
+      uuid: '879f8d8a-c65e-463d-9843-6f12265e3df8',
+      kind: 'TEST_LOG',
+      message: '"⏱️  Duration: 6140ms"',
+      level: 'INFO',
+      fileName: '',
+      fileSize: [Long],
+      filePath: '',
+      test_run_uuid: '879f8d8a-c65e-463d-9843-6f12265e3df8'
+    },
+    {
+      testFrameworkName: 'WebdriverIO-mocha',
+      testFrameworkVersion: '9.21.0',
+      testFrameworkState: 'LOG',
+      timestamp: '2025-12-27T10:50:07.787Z',
+      uuid: '879f8d8a-c65e-463d-9843-6f12265e3df8',
+      kind: 'TEST_LOG',
+      message: '"\n╔═══════════════════════════════════════════════════════╗"',
+      level: 'INFO',
+      fileName: '',
+      fileSize: [Long],
+      filePath: '',
+      test_run_uuid: '879f8d8a-c65e-463d-9843-6f12265e3df8'
+    },
+    {
+      testFrameworkName: 'WebdriverIO-mocha',
+      testFrameworkVersion: '9.21.0',
+      testFrameworkState: 'LOG',
+      timestamp: '2025-12-27T10:50:07.787Z',
+      uuid: '879f8d8a-c65e-463d-9843-6f12265e3df8',
+      kind: 'TEST_LOG',
+      message: '"║          BrowserStack Session Details                 ║"',
+      level: 'INFO',
+      fileName: '',
+      fileSize: [Long],
+      filePath: '',
+      test_run_uuid: '879f8d8a-c65e-463d-9843-6f12265e3df8'
+    },
+    {
+      testFrameworkName: 'WebdriverIO-mocha',
+      testFrameworkVersion: '9.21.0',
+      testFrameworkState: 'LOG',
+      timestamp: '2025-12-27T10:50:07.787Z',
+      uuid: '879f8d8a-c65e-463d-9843-6f12265e3df8',
+      kind: 'TEST_LOG',
+      message: '"╠═══════════════════════════════════════════════════════╣"',
+      level: 'INFO',
+      fileName: '',
+      fileSize: [Long],
+      filePath: '',
+      test_run_uuid: '879f8d8a-c65e-463d-9843-6f12265e3df8'
+    },
+    {
+      testFrameworkName: 'WebdriverIO-mocha',
+      testFrameworkVersion: '9.21.0',
+      testFrameworkState: 'LOG',
+      timestamp: '2025-12-27T10:50:07.787Z',
+      uuid: '879f8d8a-c65e-463d-9843-6f12265e3df8',
+      kind: 'TEST_LOG',
+      message: '"║ Status: ✅ PASSED                                      ║"',
+      level: 'INFO',
+      fileName: '',
+      fileSize: [Long],
+      filePath: '',
+      test_run_uuid: '879f8d8a-c65e-463d-9843-6f12265e3df8'
+    },
+    {
+      testFrameworkName: 'WebdriverIO-mocha',
+      testFrameworkVersion: '9.21.0',
+      testFrameworkState: 'LOG',
+      timestamp: '2025-12-27T10:50:07.787Z',
+      uuid: '879f8d8a-c65e-463d-9843-6f12265e3df8',
+      kind: 'TEST_LOG',
+      message: '"║ View Live Session & Video:                             ║"',
+      level: 'INFO',
+      fileName: '',
+      fileSize: [Long],
+      filePath: '',
+      test_run_uuid: '879f8d8a-c65e-463d-9843-6f12265e3df8'
+    },
+    {
+      testFrameworkName: 'WebdriverIO-mocha',
+      testFrameworkVersion: '9.21.0',
+      testFrameworkState: 'LOG',
+      timestamp: '2025-12-27T10:50:07.787Z',
+      uuid: '879f8d8a-c65e-463d-9843-6f12265e3df8',
+      kind: 'TEST_LOG',
+      message: '"║ https://app-automate.browserstack.com/dashboard/v2/sessions/0598474b0be6740198aaa90b641fe1b6a6847fa3 ║"',
+      level: 'INFO',
+      fileName: '',
+      fileSize: [Long],
+      filePath: '',
+      test_run_uuid: '879f8d8a-c65e-463d-9843-6f12265e3df8'
+    },
+    {
+      testFrameworkName: 'WebdriverIO-mocha',
+      testFrameworkVersion: '9.21.0',
+      testFrameworkState: 'LOG',
+      timestamp: '2025-12-27T10:50:07.787Z',
+      uuid: '879f8d8a-c65e-463d-9843-6f12265e3df8',
+      kind: 'TEST_LOG',
+      message: '"╚═══════════════════════════════════════════════════════╝\n"',
+      level: 'INFO',
+      fileName: '',
+      fileSize: [Long],
+      filePath: '',
+      test_run_uuid: '879f8d8a-c65e-463d-9843-6f12265e3df8'
+    },
+    {
+      testFrameworkName: 'WebdriverIO-mocha',
+      testFrameworkVersion: '9.21.0',
+      testFrameworkState: 'LOG',
+      timestamp: '2025-12-27T10:50:08.443Z',
+      uuid: '879f8d8a-c65e-463d-9843-6f12265e3df8',
+      kind: 'TEST_LOG',
+      message: '"\n✨ Test session completed"',
+      level: 'INFO',
+      fileName: '',
+      fileSize: [Long],
+      filePath: '',
+      test_run_uuid: '879f8d8a-c65e-463d-9843-6f12265e3df8'
+    }
+  ]
+} to 20968:0
+2025-12-27T10:50:10.362Z CLI info [testhub:request-queue-handler]  [mhadhbihoussem_GpsWhQ]  [6f2fnfedooxs9cxbcpqyuohj4uy6ok0jvd7lfhyl]  [b871b950-2ec7-4ab8-b2f5-2c2504b81795]  Processing batch event [
+  {
+    event_type: 'LogCreated',
+    logs: [
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object]
+    ]
+  }
+] to 20968:0
+2025-12-27T10:50:10.363Z CLI info  [mhadhbihoussem_GpsWhQ]  [6f2fnfedooxs9cxbcpqyuohj4uy6ok0jvd7lfhyl]  [b871b950-2ec7-4ab8-b2f5-2c2504b81795]  [PRODUCTION] Making POST request to https://collector-observability.browserstack.com
+2025-12-27T10:50:12.251Z CLI info  [mhadhbihoussem_GpsWhQ]  [6f2fnfedooxs9cxbcpqyuohj4uy6ok0jvd7lfhyl]  [b871b950-2ec7-4ab8-b2f5-2c2504b81795]  [PRODUCTION] Making PUT request to https://collector-observability.browserstack.com
+2025-12-27T10:50:12.758Z CLI info [testhub:module]  [mhadhbihoussem_GpsWhQ]  [6f2fnfedooxs9cxbcpqyuohj4uy6ok0jvd7lfhyl]  [b871b950-2ec7-4ab8-b2f5-2c2504b81795]  stopBuild: 6f2fnfedooxs9cxbcpqyuohj4uy6ok0jvd7lfhyl request={"finished_at":"2025-12-27T10:50:12.251Z","finished_metadata":[],"custom_metadata":null} response={"data":""}
+2025-12-27T10:50:12.760Z CLI info  [mhadhbihoussem_GpsWhQ]  [6f2fnfedooxs9cxbcpqyuohj4uy6ok0jvd7lfhyl]  [b871b950-2ec7-4ab8-b2f5-2c2504b81795]  [PRODUCTION] Making POST request to https://api.browserstack.com
+2025-12-27T10:50:12.761Z CLI info [TEST REPORTING AND ANALYTICS:module]  [mhadhbihoussem_GpsWhQ]  [6f2fnfedooxs9cxbcpqyuohj4uy6ok0jvd7lfhyl]  [b871b950-2ec7-4ab8-b2f5-2c2504b81795]  Visit https://automation.browserstack.com/builds/6f2fnfedooxs9cxbcpqyuohj4uy6ok0jvd7lfhyl to view build report, insights, and many more debugging information all at one place!
+2025-12-27T10:50:12.938Z CLI info  [mhadhbihoussem_GpsWhQ]  [6f2fnfedooxs9cxbcpqyuohj4uy6ok0jvd7lfhyl]  [b871b950-2ec7-4ab8-b2f5-2c2504b81795]  [PRODUCTION] Making GET request to https://api.browserstack.com
+2025-12-27T10:50:13.139Z CLI info  [mhadhbihoussem_GpsWhQ]  [6f2fnfedooxs9cxbcpqyuohj4uy6ok0jvd7lfhyl]  [b871b950-2ec7-4ab8-b2f5-2c2504b81795]  [PRODUCTION] Making POST request to https://eds.browserstack.com
+2025-12-27T11:02:36.681Z CLI info [main]     Server listening on port: 5400
+2025-12-27T11:02:36.712Z CLI info     Config : {"userName":"[REDACTED]","accessKey":"[REDACTED]","platforms":[{"platformName":"Android","appium:deviceName":"Google Pixel 5","appium:platformVersion":"11.0","appium:automationName":"UiAutomator2","appium:app":"bs://35918e6a03680c48497e21350280c67ce0214b17","projectName":"My First WebDriverIO Mobile Project on Android device","buildName":"Test regression","sessionName":"ColorNote - Delete note","debug":true,"networkLogs":true,"deviceLogs":true,"appiumLogs":true,"video":true,"local":false,"interactiveDebugging":true,"consoleLogs":"verbose","buildTag":"regression","buildIdentifier":"1766833355092","wdioService":"9.21.0"}],"isNonBstackA11yWDIO":false,"testObservability":true,"testObservabilityOptions":{"projectName":"My First WebDriverIO Mobile Project","buildName":"Test regression","buildTag":"android-tests"},"browserstackLocal":false,"accessibility":null,"browserStackLocalOptions":{"forceLocal":false},"testContextOptions":{"skipSessionName":false,"skipSessionStatus":false,"sessionNameOmitTestTitle":false,"sessionNamePrependTopLevelSuiteTitle":false,"sessionNameFormat":""},"buildName":"Test regression","projectName":"My First WebDriverIO Mobile Project","buildTag":"android-tests"}
+2025-12-27T11:02:36.716Z CLI info     Should start debug utility: undefined
+2025-12-27T11:02:36.717Z CLI info [testhub:module]  [mhadhbihoussem_GpsWhQ]   [04f1ab32-e0e2-4294-952f-3498ca5ba65f]  Starting testhub from 21960:0
+2025-12-27T11:02:36.717Z CLI info  [mhadhbihoussem_GpsWhQ]   [04f1ab32-e0e2-4294-952f-3498ca5ba65f]  [PRODUCTION] Making POST request to https://sdk.browserstack.com
+2025-12-27T11:02:37.543Z CLI info [testhub:module]  [mhadhbihoussem_GpsWhQ]   [04f1ab32-e0e2-4294-952f-3498ca5ba65f]  startBuild: response=scqg3ecz61q7sja6zwm2ckconvsltsl41pwehcbe
+2025-12-27T11:02:37.544Z CLI info  [mhadhbihoussem_GpsWhQ]  [scqg3ecz61q7sja6zwm2ckconvsltsl41pwehcbe]  [04f1ab32-e0e2-4294-952f-3498ca5ba65f]  [PRODUCTION] Making POST request to https://api.browserstack.com
+2025-12-27T11:02:39.619Z CLI info  [mhadhbihoussem_GpsWhQ]  [scqg3ecz61q7sja6zwm2ckconvsltsl41pwehcbe]  [04f1ab32-e0e2-4294-952f-3498ca5ba65f]  [PRODUCTION] Making GET request to https://hub.browserstack.com
+2025-12-27T11:02:39.809Z CLI info  [mhadhbihoussem_GpsWhQ]  [scqg3ecz61q7sja6zwm2ckconvsltsl41pwehcbe]  [04f1ab32-e0e2-4294-952f-3498ca5ba65f]  [PRODUCTION] Making GET request to https://hub-euw.browserstack.com
+2025-12-27T11:02:40.011Z CLI info  [mhadhbihoussem_GpsWhQ]  [scqg3ecz61q7sja6zwm2ckconvsltsl41pwehcbe]  [04f1ab32-e0e2-4294-952f-3498ca5ba65f]  [PRODUCTION] Making GET request to https://hub-use.browserstack.com
+2025-12-27T11:02:40.029Z CLI info [sdk:service]  [mhadhbihoussem_GpsWhQ]  [scqg3ecz61q7sja6zwm2ckconvsltsl41pwehcbe]  [04f1ab32-e0e2-4294-952f-3498ca5ba65f]  Driver initialized as primary driver: platformIndex=0
+2025-12-27T11:02:40.426Z CLI info  [mhadhbihoussem_GpsWhQ]  [scqg3ecz61q7sja6zwm2ckconvsltsl41pwehcbe]  [04f1ab32-e0e2-4294-952f-3498ca5ba65f]  [PRODUCTION] Making GET request to https://hub-aps.browserstack.com
+2025-12-27T11:03:34.243Z CLI info [testhub:request-queue-handler]  [mhadhbihoussem_GpsWhQ]  [scqg3ecz61q7sja6zwm2ckconvsltsl41pwehcbe]  [04f1ab32-e0e2-4294-952f-3498ca5ba65f]  Added the event {
+  event_type: 'CBTSessionCreated',
+  test_run: {
+    uuid: 'a37e256d-142c-4a00-b7c6-4fc940b7e5ff',
+    integrations: { browserstack: [Object] }
+  }
+} to 21960:0
+2025-12-27T11:03:34.245Z CLI error [TEST REPORTING AND ANALYTICS:service]  [mhadhbihoussem_GpsWhQ]  [scqg3ecz61q7sja6zwm2ckconvsltsl41pwehcbe]  [04f1ab32-e0e2-4294-952f-3498ca5ba65f]  TypeError [ERR_INVALID_ARG_TYPE]: The "to" argument must be of type string. Received undefined
+    at new NodeError (node:internal/errors:405:5)
+    at validateString (node:internal/validators:162:11)
+    at Object.relative (node:path:498:5)
+    at MochaModule.makeFileDetails (C:\snapshot\browserstack-binary\cli\dist\index.js)
+    at MochaModule.sendTestEvent (C:\snapshot\browserstack-binary\cli\dist\index.js)
+    at MochaModule.onTestRunStarted (C:\snapshot\browserstack-binary\cli\dist\index.js)
+    at _0x139aa5 (C:\snapshot\browserstack-binary\cli\dist\index.js)
+    at WebdriverIOModule.runEventAction (C:\snapshot\browserstack-binary\cli\dist\index.js)
+    at WebdriverIOModule.onTestFrameworkEvent (C:\snapshot\browserstack-binary\cli\dist\index.js)
+    at ObservabilityModule.forwardRequest (C:\snapshot\browserstack-binary\cli\dist\index.js)
+2025-12-27T11:03:35.768Z CLI info [testhub:request-queue-handler]  [mhadhbihoussem_GpsWhQ]  [scqg3ecz61q7sja6zwm2ckconvsltsl41pwehcbe]  [04f1ab32-e0e2-4294-952f-3498ca5ba65f]  Processing batch event [
+  {
+    event_type: 'CBTSessionCreated',
+    test_run: {
+      uuid: 'a37e256d-142c-4a00-b7c6-4fc940b7e5ff',
+      integrations: [Object]
+    }
+  }
+] to 21960:0
+2025-12-27T11:03:35.769Z CLI info  [mhadhbihoussem_GpsWhQ]  [scqg3ecz61q7sja6zwm2ckconvsltsl41pwehcbe]  [04f1ab32-e0e2-4294-952f-3498ca5ba65f]  [PRODUCTION] Making POST request to https://collector-observability.browserstack.com
+2025-12-27T11:03:40.282Z CLI warn [TEST REPORTING AND ANALYTICS:webdriverio:mocha]  [mhadhbihoussem_GpsWhQ]  [scqg3ecz61q7sja6zwm2ckconvsltsl41pwehcbe]  [04f1ab32-e0e2-4294-952f-3498ca5ba65f]  TestRunFinished: event={"test_framework_name":"WebdriverIO-mocha","test_framework_version":"9.21.0","test_logs":[{"kind":"TEST_LOG","message":{"type":"Buffer","data":[34,10,226,156,133,32,80,65,83,83,69,68,32,84,101,115,116,58,32,68,101,108,101,116,101,32,78,111,116,101,32,38,32,118,101,114,105,102,121,32,68,101,108,101,116,101,100,32,110,111,116,101,34]},"level":"INFO","timestamp":"2025-12-27T11:03:40.274Z"},{"kind":"TEST_LOG","message":{"type":"Buffer","data":[34,226,143,177,239,184,143,32,32,68,117,114,97,116,105,111,110,58,32,54,48,52,54,109,115,34]},"level":"INFO","timestamp":"2025-12-27T11:03:40.274Z"},{"kind":"TEST_LOG","message":{"type":"Buffer","data":[34,10,226,149,148,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,151,34]},"level":"INFO","timestamp":"2025-12-27T11:03:40.274Z"},{"kind":"TEST_LOG","message":{"type":"Buffer","data":[34,226,149,145,32,32,32,32,32,32,32,32,32,32,66,114,111,119,115,101,114,83,116,97,99,107,32,83,101,115,115,105,111,110,32,68,101,116,97,105,108,115,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,226,149,145,34]},"level":"INFO","timestamp":"2025-12-27T11:03:40.274Z"},{"kind":"TEST_LOG","message":{"type":"Buffer","data":[34,226,149,160,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,163,34]},"level":"INFO","timestamp":"2025-12-27T11:03:40.274Z"},{"kind":"TEST_LOG","message":{"type":"Buffer","data":[34,226,149,145,32,83,116,97,116,117,115,58,32,226,156,133,32,80,65,83,83,69,68,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,226,149,145,34]},"level":"INFO","timestamp":"2025-12-27T11:03:40.274Z"},{"kind":"TEST_LOG","message":{"type":"Buffer","data":[34,226,149,145,32,86,105,101,119,32,76,105,118,101,32,83,101,115,115,105,111,110,32,38,32,86,105,100,101,111,58,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,226,149,145,34]},"level":"INFO","timestamp":"2025-12-27T11:03:40.274Z"},{"kind":"TEST_LOG","message":{"type":"Buffer","data":[34,226,149,145,32,104,116,116,112,115,58,47,47,97,112,112,45,97,117,116,111,109,97,116,101,46,98,114,111,119,115,101,114,115,116,97,99,107,46,99,111,109,47,100,97,115,104,98,111,97,114,100,47,118,50,47,115,101,115,115,105,111,110,115,47,98,54,48,54,53,48,55,52,98,52,56,55,51,98,55,100,48,49,49,98,53,100,52,97,51,56,52,48,53,51,54,57,54,56,97,54,57,49,52,56,32,226,149,145,34]},"level":"INFO","timestamp":"2025-12-27T11:03:40.274Z"},{"kind":"TEST_LOG","message":{"type":"Buffer","data":[34,226,149,154,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,157,10,34]},"level":"INFO","timestamp":"2025-12-27T11:03:40.274Z"}],"test_hooks_finished":{},"test_hooks_started":{},"test_uuid":"a37e256d-142c-4a00-b7c6-4fc940b7e5ff","test_result":"passed","test_hook_last_started":"TestFrameworkState.TEST","test_id":"Android Native Feature Tests  - Delete Note & verify Deleted note","test_name":"Delete Note & verify Deleted note","test_code":"async () => {\r\n        //SECTION - Delete Note\r\n        // click on created note to open it by text\r\n        const noteElement = await $('//*[@text=\"FavAnimeList\"]');\r\n        await noteElement.waitForDisplayed({ timeout: 8000 });\r\n        await noteElement.click();\r\n\r\n        // Wait for menu button to be displayed after note opens\r\n        await AddNoteScreen.ThreeDotsMenuBtn.waitForDisplayed({ timeout: 8000 });\r\n\r\n        // Click menu button (3 dots )\r\n        await AddNoteScreen.ThreeDotsMenuBtn.click();\r\n\r\n        // Click Delete option\r\n        await AddNoteScreen.DeleteOption.click();\r\n\r\n        // Confirm deletioncl\r\n        await driver.acceptAlert();\r\n\r\n        //click on nav icon\r\n        await AddNoteScreen.IconNavBtn.click();\r\n        await AddNoteScreen.TrashCanOption.click();\r\n\r\n        // Verify the note is no longer in the main list\r\n        const trashCanItemText = await AddNoteScreen.TrashCanItem.getText();\r\n\r\n        await expect(trashCanItemText).toBe(\"FavAnimeList\");\r\n\r\n\r\n    }","test_location":"test\\specs\\android\\TestsColorNote\\add-notePO.spec.js","test_scope":"Android Native Feature Tests  - Delete Note & verify Deleted note","test_scopes":["Android Native Feature Tests "],"test_started_at":"2025-12-27T11:03:34.224Z","automate_session_name":"Android Native Feature Tests  - Delete Note & verify Deleted note","test_failure":null,"test_failure_reason":null,"test_failure_type":null,"test_ended_at":"2025-12-27T11:03:40.279Z","test_hook_last_finished":"TestFrameworkState.TEST","automate_session_status":"passed","test_deferred":true,"logs":[]}
+2025-12-27T11:03:40.283Z CLI error [TEST REPORTING AND ANALYTICS:service]  [mhadhbihoussem_GpsWhQ]  [scqg3ecz61q7sja6zwm2ckconvsltsl41pwehcbe]  [04f1ab32-e0e2-4294-952f-3498ca5ba65f]  TypeError [ERR_INVALID_ARG_TYPE]: The "to" argument must be of type string. Received undefined
+    at new NodeError (node:internal/errors:405:5)
+    at validateString (node:internal/validators:162:11)
+    at Object.relative (node:path:498:5)
+    at MochaModule.makeFileDetails (C:\snapshot\browserstack-binary\cli\dist\index.js)
+    at MochaModule.sendTestEvent (C:\snapshot\browserstack-binary\cli\dist\index.js)
+    at MochaModule.onTestRunFinished (C:\snapshot\browserstack-binary\cli\dist\index.js)
+    at _0x139aa5 (C:\snapshot\browserstack-binary\cli\dist\index.js)
+    at WebdriverIOModule.runEventAction (C:\snapshot\browserstack-binary\cli\dist\index.js)
+    at WebdriverIOModule.onTestFrameworkEvent (C:\snapshot\browserstack-binary\cli\dist\index.js)
+    at ObservabilityModule.forwardRequest (C:\snapshot\browserstack-binary\cli\dist\index.js)
+2025-12-27T11:03:40.928Z CLI info [testhub:request-queue-handler]  [mhadhbihoussem_GpsWhQ]  [scqg3ecz61q7sja6zwm2ckconvsltsl41pwehcbe]  [04f1ab32-e0e2-4294-952f-3498ca5ba65f]  Added the event {
+  event_type: 'LogCreated',
+  logs: [
+    {
+      testFrameworkName: 'WebdriverIO-mocha',
+      testFrameworkVersion: '9.21.0',
+      testFrameworkState: 'LOG',
+      timestamp: '2025-12-27T11:03:40.274Z',
+      uuid: 'a37e256d-142c-4a00-b7c6-4fc940b7e5ff',
+      kind: 'TEST_LOG',
+      message: '"\n✅ PASSED Test: Delete Note & verify Deleted note"',
+      level: 'INFO',
+      fileName: '',
+      fileSize: [Long],
+      filePath: '',
+      test_run_uuid: 'a37e256d-142c-4a00-b7c6-4fc940b7e5ff'
+    },
+    {
+      testFrameworkName: 'WebdriverIO-mocha',
+      testFrameworkVersion: '9.21.0',
+      testFrameworkState: 'LOG',
+      timestamp: '2025-12-27T11:03:40.274Z',
+      uuid: 'a37e256d-142c-4a00-b7c6-4fc940b7e5ff',
+      kind: 'TEST_LOG',
+      message: '"⏱️  Duration: 6046ms"',
+      level: 'INFO',
+      fileName: '',
+      fileSize: [Long],
+      filePath: '',
+      test_run_uuid: 'a37e256d-142c-4a00-b7c6-4fc940b7e5ff'
+    },
+    {
+      testFrameworkName: 'WebdriverIO-mocha',
+      testFrameworkVersion: '9.21.0',
+      testFrameworkState: 'LOG',
+      timestamp: '2025-12-27T11:03:40.274Z',
+      uuid: 'a37e256d-142c-4a00-b7c6-4fc940b7e5ff',
+      kind: 'TEST_LOG',
+      message: '"\n╔═══════════════════════════════════════════════════════╗"',
+      level: 'INFO',
+      fileName: '',
+      fileSize: [Long],
+      filePath: '',
+      test_run_uuid: 'a37e256d-142c-4a00-b7c6-4fc940b7e5ff'
+    },
+    {
+      testFrameworkName: 'WebdriverIO-mocha',
+      testFrameworkVersion: '9.21.0',
+      testFrameworkState: 'LOG',
+      timestamp: '2025-12-27T11:03:40.274Z',
+      uuid: 'a37e256d-142c-4a00-b7c6-4fc940b7e5ff',
+      kind: 'TEST_LOG',
+      message: '"║          BrowserStack Session Details                 ║"',
+      level: 'INFO',
+      fileName: '',
+      fileSize: [Long],
+      filePath: '',
+      test_run_uuid: 'a37e256d-142c-4a00-b7c6-4fc940b7e5ff'
+    },
+    {
+      testFrameworkName: 'WebdriverIO-mocha',
+      testFrameworkVersion: '9.21.0',
+      testFrameworkState: 'LOG',
+      timestamp: '2025-12-27T11:03:40.274Z',
+      uuid: 'a37e256d-142c-4a00-b7c6-4fc940b7e5ff',
+      kind: 'TEST_LOG',
+      message: '"╠═══════════════════════════════════════════════════════╣"',
+      level: 'INFO',
+      fileName: '',
+      fileSize: [Long],
+      filePath: '',
+      test_run_uuid: 'a37e256d-142c-4a00-b7c6-4fc940b7e5ff'
+    },
+    {
+      testFrameworkName: 'WebdriverIO-mocha',
+      testFrameworkVersion: '9.21.0',
+      testFrameworkState: 'LOG',
+      timestamp: '2025-12-27T11:03:40.274Z',
+      uuid: 'a37e256d-142c-4a00-b7c6-4fc940b7e5ff',
+      kind: 'TEST_LOG',
+      message: '"║ Status: ✅ PASSED                                      ║"',
+      level: 'INFO',
+      fileName: '',
+      fileSize: [Long],
+      filePath: '',
+      test_run_uuid: 'a37e256d-142c-4a00-b7c6-4fc940b7e5ff'
+    },
+    {
+      testFrameworkName: 'WebdriverIO-mocha',
+      testFrameworkVersion: '9.21.0',
+      testFrameworkState: 'LOG',
+      timestamp: '2025-12-27T11:03:40.274Z',
+      uuid: 'a37e256d-142c-4a00-b7c6-4fc940b7e5ff',
+      kind: 'TEST_LOG',
+      message: '"║ View Live Session & Video:                             ║"',
+      level: 'INFO',
+      fileName: '',
+      fileSize: [Long],
+      filePath: '',
+      test_run_uuid: 'a37e256d-142c-4a00-b7c6-4fc940b7e5ff'
+    },
+    {
+      testFrameworkName: 'WebdriverIO-mocha',
+      testFrameworkVersion: '9.21.0',
+      testFrameworkState: 'LOG',
+      timestamp: '2025-12-27T11:03:40.274Z',
+      uuid: 'a37e256d-142c-4a00-b7c6-4fc940b7e5ff',
+      kind: 'TEST_LOG',
+      message: '"║ https://app-automate.browserstack.com/dashboard/v2/sessions/b6065074b4873b7d011b5d4a3840536968a69148 ║"',
+      level: 'INFO',
+      fileName: '',
+      fileSize: [Long],
+      filePath: '',
+      test_run_uuid: 'a37e256d-142c-4a00-b7c6-4fc940b7e5ff'
+    },
+    {
+      testFrameworkName: 'WebdriverIO-mocha',
+      testFrameworkVersion: '9.21.0',
+      testFrameworkState: 'LOG',
+      timestamp: '2025-12-27T11:03:40.274Z',
+      uuid: 'a37e256d-142c-4a00-b7c6-4fc940b7e5ff',
+      kind: 'TEST_LOG',
+      message: '"╚═══════════════════════════════════════════════════════╝\n"',
+      level: 'INFO',
+      fileName: '',
+      fileSize: [Long],
+      filePath: '',
+      test_run_uuid: 'a37e256d-142c-4a00-b7c6-4fc940b7e5ff'
+    },
+    {
+      testFrameworkName: 'WebdriverIO-mocha',
+      testFrameworkVersion: '9.21.0',
+      testFrameworkState: 'LOG',
+      timestamp: '2025-12-27T11:03:40.915Z',
+      uuid: 'a37e256d-142c-4a00-b7c6-4fc940b7e5ff',
+      kind: 'TEST_LOG',
+      message: '"\n✨ Test session completed"',
+      level: 'INFO',
+      fileName: '',
+      fileSize: [Long],
+      filePath: '',
+      test_run_uuid: 'a37e256d-142c-4a00-b7c6-4fc940b7e5ff'
+    }
+  ]
+} to 21960:0
+2025-12-27T11:03:41.798Z CLI info [testhub:request-queue-handler]  [mhadhbihoussem_GpsWhQ]  [scqg3ecz61q7sja6zwm2ckconvsltsl41pwehcbe]  [04f1ab32-e0e2-4294-952f-3498ca5ba65f]  Processing batch event [
+  {
+    event_type: 'LogCreated',
+    logs: [
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object]
+    ]
+  }
+] to 21960:0
+2025-12-27T11:03:41.799Z CLI info  [mhadhbihoussem_GpsWhQ]  [scqg3ecz61q7sja6zwm2ckconvsltsl41pwehcbe]  [04f1ab32-e0e2-4294-952f-3498ca5ba65f]  [PRODUCTION] Making POST request to https://collector-observability.browserstack.com
+2025-12-27T11:03:44.623Z CLI info  [mhadhbihoussem_GpsWhQ]  [scqg3ecz61q7sja6zwm2ckconvsltsl41pwehcbe]  [04f1ab32-e0e2-4294-952f-3498ca5ba65f]  [PRODUCTION] Making PUT request to https://collector-observability.browserstack.com
+2025-12-27T11:03:44.920Z CLI info [testhub:module]  [mhadhbihoussem_GpsWhQ]  [scqg3ecz61q7sja6zwm2ckconvsltsl41pwehcbe]  [04f1ab32-e0e2-4294-952f-3498ca5ba65f]  stopBuild: scqg3ecz61q7sja6zwm2ckconvsltsl41pwehcbe request={"finished_at":"2025-12-27T11:03:44.623Z","finished_metadata":[],"custom_metadata":null} response={"data":""}
+2025-12-27T11:03:44.922Z CLI info  [mhadhbihoussem_GpsWhQ]  [scqg3ecz61q7sja6zwm2ckconvsltsl41pwehcbe]  [04f1ab32-e0e2-4294-952f-3498ca5ba65f]  [PRODUCTION] Making POST request to https://api.browserstack.com
+2025-12-27T11:03:44.923Z CLI info [TEST REPORTING AND ANALYTICS:module]  [mhadhbihoussem_GpsWhQ]  [scqg3ecz61q7sja6zwm2ckconvsltsl41pwehcbe]  [04f1ab32-e0e2-4294-952f-3498ca5ba65f]  Visit https://automation.browserstack.com/builds/scqg3ecz61q7sja6zwm2ckconvsltsl41pwehcbe to view build report, insights, and many more debugging information all at one place!
+2025-12-27T11:03:45.119Z CLI info  [mhadhbihoussem_GpsWhQ]  [scqg3ecz61q7sja6zwm2ckconvsltsl41pwehcbe]  [04f1ab32-e0e2-4294-952f-3498ca5ba65f]  [PRODUCTION] Making GET request to https://api.browserstack.com
+2025-12-27T11:03:45.307Z CLI info  [mhadhbihoussem_GpsWhQ]  [scqg3ecz61q7sja6zwm2ckconvsltsl41pwehcbe]  [04f1ab32-e0e2-4294-952f-3498ca5ba65f]  [PRODUCTION] Making POST request to https://eds.browserstack.com
+2025-12-27T11:19:33.409Z CLI info [main]     Server listening on port: 5400
+2025-12-27T11:19:33.434Z CLI info     Config : {"userName":"[REDACTED]","accessKey":"[REDACTED]","platforms":[{"platformName":"Android","appium:deviceName":"Google Pixel 5","appium:platformVersion":"11.0","appium:automationName":"UiAutomator2","appium:app":"bs://35918e6a03680c48497e21350280c67ce0214b17","projectName":"My First WebDriverIO Mobile Project on Android device","buildName":"Test regression","sessionName":"ColorNote - Delete note","debug":true,"networkLogs":true,"deviceLogs":true,"appiumLogs":true,"video":true,"local":false,"interactiveDebugging":true,"consoleLogs":"verbose","buildTag":"regression","buildIdentifier":"1766834372190","wdioService":"9.21.0"}],"isNonBstackA11yWDIO":false,"testObservability":true,"testObservabilityOptions":{"projectName":"My First WebDriverIO Mobile Project","buildName":"Test regression","buildTag":"android-tests"},"browserstackLocal":false,"accessibility":null,"browserStackLocalOptions":{"forceLocal":false},"testContextOptions":{"skipSessionName":false,"skipSessionStatus":false,"sessionNameOmitTestTitle":false,"sessionNamePrependTopLevelSuiteTitle":false,"sessionNameFormat":""},"buildName":"Test regression","projectName":"My First WebDriverIO Mobile Project","buildTag":"android-tests"}
+2025-12-27T11:19:33.437Z CLI info     Should start debug utility: undefined
+2025-12-27T11:19:33.438Z CLI info [testhub:module]  [mhadhbihoussem_GpsWhQ]   [40a45598-3829-474c-86fa-a66c1e9c0e02]  Starting testhub from 30532:0
+2025-12-27T11:19:33.439Z CLI info  [mhadhbihoussem_GpsWhQ]   [40a45598-3829-474c-86fa-a66c1e9c0e02]  [PRODUCTION] Making POST request to https://sdk.browserstack.com
+2025-12-27T11:19:34.520Z CLI info [testhub:module]  [mhadhbihoussem_GpsWhQ]   [40a45598-3829-474c-86fa-a66c1e9c0e02]  startBuild: response=7rsp0uqc1belp6vj5ipfe328hpiwlramd6x2rye0
+2025-12-27T11:19:34.521Z CLI info  [mhadhbihoussem_GpsWhQ]  [7rsp0uqc1belp6vj5ipfe328hpiwlramd6x2rye0]  [40a45598-3829-474c-86fa-a66c1e9c0e02]  [PRODUCTION] Making POST request to https://api.browserstack.com
+2025-12-27T11:19:36.025Z CLI info  [mhadhbihoussem_GpsWhQ]  [7rsp0uqc1belp6vj5ipfe328hpiwlramd6x2rye0]  [40a45598-3829-474c-86fa-a66c1e9c0e02]  [PRODUCTION] Making GET request to https://hub.browserstack.com
+2025-12-27T11:19:36.183Z CLI info  [mhadhbihoussem_GpsWhQ]  [7rsp0uqc1belp6vj5ipfe328hpiwlramd6x2rye0]  [40a45598-3829-474c-86fa-a66c1e9c0e02]  [PRODUCTION] Making GET request to https://hub-euw.browserstack.com
+2025-12-27T11:19:36.319Z CLI info  [mhadhbihoussem_GpsWhQ]  [7rsp0uqc1belp6vj5ipfe328hpiwlramd6x2rye0]  [40a45598-3829-474c-86fa-a66c1e9c0e02]  [PRODUCTION] Making GET request to https://hub-use.browserstack.com
+2025-12-27T11:19:36.338Z CLI info [sdk:service]  [mhadhbihoussem_GpsWhQ]  [7rsp0uqc1belp6vj5ipfe328hpiwlramd6x2rye0]  [40a45598-3829-474c-86fa-a66c1e9c0e02]  Driver initialized as primary driver: platformIndex=0
+2025-12-27T11:19:36.726Z CLI info  [mhadhbihoussem_GpsWhQ]  [7rsp0uqc1belp6vj5ipfe328hpiwlramd6x2rye0]  [40a45598-3829-474c-86fa-a66c1e9c0e02]  [PRODUCTION] Making GET request to https://hub-aps.browserstack.com
+2025-12-27T11:20:30.375Z CLI info [testhub:request-queue-handler]  [mhadhbihoussem_GpsWhQ]  [7rsp0uqc1belp6vj5ipfe328hpiwlramd6x2rye0]  [40a45598-3829-474c-86fa-a66c1e9c0e02]  Added the event {
+  event_type: 'CBTSessionCreated',
+  test_run: {
+    uuid: '7f3617ab-62cf-499d-ac53-892ea71c0a6b',
+    integrations: { browserstack: [Object] }
+  }
+} to 30532:0
+2025-12-27T11:20:30.377Z CLI error [TEST REPORTING AND ANALYTICS:service]  [mhadhbihoussem_GpsWhQ]  [7rsp0uqc1belp6vj5ipfe328hpiwlramd6x2rye0]  [40a45598-3829-474c-86fa-a66c1e9c0e02]  TypeError [ERR_INVALID_ARG_TYPE]: The "to" argument must be of type string. Received undefined
+    at new NodeError (node:internal/errors:405:5)
+    at validateString (node:internal/validators:162:11)
+    at Object.relative (node:path:498:5)
+    at MochaModule.makeFileDetails (C:\snapshot\browserstack-binary\cli\dist\index.js)
+    at MochaModule.sendTestEvent (C:\snapshot\browserstack-binary\cli\dist\index.js)
+    at MochaModule.onTestRunStarted (C:\snapshot\browserstack-binary\cli\dist\index.js)
+    at _0x139aa5 (C:\snapshot\browserstack-binary\cli\dist\index.js)
+    at WebdriverIOModule.runEventAction (C:\snapshot\browserstack-binary\cli\dist\index.js)
+    at WebdriverIOModule.onTestFrameworkEvent (C:\snapshot\browserstack-binary\cli\dist\index.js)
+    at ObservabilityModule.forwardRequest (C:\snapshot\browserstack-binary\cli\dist\index.js)
+2025-12-27T11:20:30.709Z CLI info [testhub:request-queue-handler]  [mhadhbihoussem_GpsWhQ]  [7rsp0uqc1belp6vj5ipfe328hpiwlramd6x2rye0]  [40a45598-3829-474c-86fa-a66c1e9c0e02]  Processing batch event [
+  {
+    event_type: 'CBTSessionCreated',
+    test_run: {
+      uuid: '7f3617ab-62cf-499d-ac53-892ea71c0a6b',
+      integrations: [Object]
+    }
+  }
+] to 30532:0
+2025-12-27T11:20:30.710Z CLI info  [mhadhbihoussem_GpsWhQ]  [7rsp0uqc1belp6vj5ipfe328hpiwlramd6x2rye0]  [40a45598-3829-474c-86fa-a66c1e9c0e02]  [PRODUCTION] Making POST request to https://collector-observability.browserstack.com
+2025-12-27T11:20:36.211Z CLI warn [TEST REPORTING AND ANALYTICS:webdriverio:mocha]  [mhadhbihoussem_GpsWhQ]  [7rsp0uqc1belp6vj5ipfe328hpiwlramd6x2rye0]  [40a45598-3829-474c-86fa-a66c1e9c0e02]  TestRunFinished: event={"test_framework_name":"WebdriverIO-mocha","test_framework_version":"9.21.0","test_logs":[{"kind":"TEST_LOG","message":{"type":"Buffer","data":[34,10,226,156,133,32,80,65,83,83,69,68,32,84,101,115,116,58,32,68,101,108,101,116,101,32,78,111,116,101,32,38,32,118,101,114,105,102,121,32,68,101,108,101,116,101,100,32,110,111,116,101,34]},"level":"INFO","timestamp":"2025-12-27T11:20:36.201Z"},{"kind":"TEST_LOG","message":{"type":"Buffer","data":[34,226,143,177,239,184,143,32,32,68,117,114,97,116,105,111,110,58,32,53,56,51,55,109,115,34]},"level":"INFO","timestamp":"2025-12-27T11:20:36.201Z"},{"kind":"TEST_LOG","message":{"type":"Buffer","data":[34,10,226,149,148,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,151,34]},"level":"INFO","timestamp":"2025-12-27T11:20:36.201Z"},{"kind":"TEST_LOG","message":{"type":"Buffer","data":[34,226,149,145,32,32,32,32,32,32,32,32,32,32,66,114,111,119,115,101,114,83,116,97,99,107,32,83,101,115,115,105,111,110,32,68,101,116,97,105,108,115,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,226,149,145,34]},"level":"INFO","timestamp":"2025-12-27T11:20:36.201Z"},{"kind":"TEST_LOG","message":{"type":"Buffer","data":[34,226,149,160,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,163,34]},"level":"INFO","timestamp":"2025-12-27T11:20:36.201Z"},{"kind":"TEST_LOG","message":{"type":"Buffer","data":[34,226,149,145,32,83,116,97,116,117,115,58,32,226,156,133,32,80,65,83,83,69,68,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,226,149,145,34]},"level":"INFO","timestamp":"2025-12-27T11:20:36.201Z"},{"kind":"TEST_LOG","message":{"type":"Buffer","data":[34,226,149,145,32,86,105,101,119,32,76,105,118,101,32,83,101,115,115,105,111,110,32,38,32,86,105,100,101,111,58,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,226,149,145,34]},"level":"INFO","timestamp":"2025-12-27T11:20:36.201Z"},{"kind":"TEST_LOG","message":{"type":"Buffer","data":[34,226,149,145,32,104,116,116,112,115,58,47,47,97,112,112,45,97,117,116,111,109,97,116,101,46,98,114,111,119,115,101,114,115,116,97,99,107,46,99,111,109,47,100,97,115,104,98,111,97,114,100,47,118,50,47,115,101,115,115,105,111,110,115,47,100,53,100,101,49,55,102,97,52,57,49,102,56,101,99,48,100,100,54,101,56,56,101,54,99,54,102,98,51,48,97,99,99,98,57,55,49,101,52,51,32,226,149,145,34]},"level":"INFO","timestamp":"2025-12-27T11:20:36.201Z"},{"kind":"TEST_LOG","message":{"type":"Buffer","data":[34,226,149,154,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,157,10,34]},"level":"INFO","timestamp":"2025-12-27T11:20:36.201Z"}],"test_hooks_finished":{},"test_hooks_started":{},"test_uuid":"7f3617ab-62cf-499d-ac53-892ea71c0a6b","test_result":"passed","test_hook_last_started":"TestFrameworkState.TEST","test_id":"Android Native Feature Tests  - Delete Note & verify Deleted note","test_name":"Delete Note & verify Deleted note","test_code":"async()=>{const noteElement=await $('//*[@text=\"FavAnimeList\"]');await noteElement.waitForDisplayed({timeout:8e3});await noteElement.click();await import_add_note_screen.default.ThreeDotsMenuBtn.waitForDisplayed({timeout:8e3});await import_add_note_screen.default.ThreeDotsMenuBtn.click();await import_add_note_screen.default.DeleteOption.click();await driver.acceptAlert();await import_add_note_screen.default.IconNavBtn.click();await import_add_note_screen.default.TrashCanOption.click();const trashCanItemText=await import_add_note_screen.default.TrashCanItem.getText();await expect(trashCanItemText).toBe(\"FavAnimeList\")}","test_location":"test\\specs\\android\\TestsColorNote\\add-notePO.spec.js","test_scope":"Android Native Feature Tests  - Delete Note & verify Deleted note","test_scopes":["Android Native Feature Tests "],"test_started_at":"2025-12-27T11:20:30.360Z","automate_session_name":"Android Native Feature Tests  - Delete Note & verify Deleted note","test_failure":null,"test_failure_reason":null,"test_failure_type":null,"test_ended_at":"2025-12-27T11:20:36.207Z","test_hook_last_finished":"TestFrameworkState.TEST","automate_session_status":"passed","test_deferred":true,"logs":[]}
+2025-12-27T11:20:36.212Z CLI error [TEST REPORTING AND ANALYTICS:service]  [mhadhbihoussem_GpsWhQ]  [7rsp0uqc1belp6vj5ipfe328hpiwlramd6x2rye0]  [40a45598-3829-474c-86fa-a66c1e9c0e02]  TypeError [ERR_INVALID_ARG_TYPE]: The "to" argument must be of type string. Received undefined
+    at new NodeError (node:internal/errors:405:5)
+    at validateString (node:internal/validators:162:11)
+    at Object.relative (node:path:498:5)
+    at MochaModule.makeFileDetails (C:\snapshot\browserstack-binary\cli\dist\index.js)
+    at MochaModule.sendTestEvent (C:\snapshot\browserstack-binary\cli\dist\index.js)
+    at MochaModule.onTestRunFinished (C:\snapshot\browserstack-binary\cli\dist\index.js)
+    at _0x139aa5 (C:\snapshot\browserstack-binary\cli\dist\index.js)
+    at WebdriverIOModule.runEventAction (C:\snapshot\browserstack-binary\cli\dist\index.js)
+    at WebdriverIOModule.onTestFrameworkEvent (C:\snapshot\browserstack-binary\cli\dist\index.js)
+    at ObservabilityModule.forwardRequest (C:\snapshot\browserstack-binary\cli\dist\index.js)
+2025-12-27T11:20:36.908Z CLI info [testhub:request-queue-handler]  [mhadhbihoussem_GpsWhQ]  [7rsp0uqc1belp6vj5ipfe328hpiwlramd6x2rye0]  [40a45598-3829-474c-86fa-a66c1e9c0e02]  Added the event {
+  event_type: 'LogCreated',
+  logs: [
+    {
+      testFrameworkName: 'WebdriverIO-mocha',
+      testFrameworkVersion: '9.21.0',
+      testFrameworkState: 'LOG',
+      timestamp: '2025-12-27T11:20:36.201Z',
+      uuid: '7f3617ab-62cf-499d-ac53-892ea71c0a6b',
+      kind: 'TEST_LOG',
+      message: '"\n✅ PASSED Test: Delete Note & verify Deleted note"',
+      level: 'INFO',
+      fileName: '',
+      fileSize: [Long],
+      filePath: '',
+      test_run_uuid: '7f3617ab-62cf-499d-ac53-892ea71c0a6b'
+    },
+    {
+      testFrameworkName: 'WebdriverIO-mocha',
+      testFrameworkVersion: '9.21.0',
+      testFrameworkState: 'LOG',
+      timestamp: '2025-12-27T11:20:36.201Z',
+      uuid: '7f3617ab-62cf-499d-ac53-892ea71c0a6b',
+      kind: 'TEST_LOG',
+      message: '"⏱️  Duration: 5837ms"',
+      level: 'INFO',
+      fileName: '',
+      fileSize: [Long],
+      filePath: '',
+      test_run_uuid: '7f3617ab-62cf-499d-ac53-892ea71c0a6b'
+    },
+    {
+      testFrameworkName: 'WebdriverIO-mocha',
+      testFrameworkVersion: '9.21.0',
+      testFrameworkState: 'LOG',
+      timestamp: '2025-12-27T11:20:36.201Z',
+      uuid: '7f3617ab-62cf-499d-ac53-892ea71c0a6b',
+      kind: 'TEST_LOG',
+      message: '"\n╔═══════════════════════════════════════════════════════╗"',
+      level: 'INFO',
+      fileName: '',
+      fileSize: [Long],
+      filePath: '',
+      test_run_uuid: '7f3617ab-62cf-499d-ac53-892ea71c0a6b'
+    },
+    {
+      testFrameworkName: 'WebdriverIO-mocha',
+      testFrameworkVersion: '9.21.0',
+      testFrameworkState: 'LOG',
+      timestamp: '2025-12-27T11:20:36.201Z',
+      uuid: '7f3617ab-62cf-499d-ac53-892ea71c0a6b',
+      kind: 'TEST_LOG',
+      message: '"║          BrowserStack Session Details                 ║"',
+      level: 'INFO',
+      fileName: '',
+      fileSize: [Long],
+      filePath: '',
+      test_run_uuid: '7f3617ab-62cf-499d-ac53-892ea71c0a6b'
+    },
+    {
+      testFrameworkName: 'WebdriverIO-mocha',
+      testFrameworkVersion: '9.21.0',
+      testFrameworkState: 'LOG',
+      timestamp: '2025-12-27T11:20:36.201Z',
+      uuid: '7f3617ab-62cf-499d-ac53-892ea71c0a6b',
+      kind: 'TEST_LOG',
+      message: '"╠═══════════════════════════════════════════════════════╣"',
+      level: 'INFO',
+      fileName: '',
+      fileSize: [Long],
+      filePath: '',
+      test_run_uuid: '7f3617ab-62cf-499d-ac53-892ea71c0a6b'
+    },
+    {
+      testFrameworkName: 'WebdriverIO-mocha',
+      testFrameworkVersion: '9.21.0',
+      testFrameworkState: 'LOG',
+      timestamp: '2025-12-27T11:20:36.201Z',
+      uuid: '7f3617ab-62cf-499d-ac53-892ea71c0a6b',
+      kind: 'TEST_LOG',
+      message: '"║ Status: ✅ PASSED                                      ║"',
+      level: 'INFO',
+      fileName: '',
+      fileSize: [Long],
+      filePath: '',
+      test_run_uuid: '7f3617ab-62cf-499d-ac53-892ea71c0a6b'
+    },
+    {
+      testFrameworkName: 'WebdriverIO-mocha',
+      testFrameworkVersion: '9.21.0',
+      testFrameworkState: 'LOG',
+      timestamp: '2025-12-27T11:20:36.201Z',
+      uuid: '7f3617ab-62cf-499d-ac53-892ea71c0a6b',
+      kind: 'TEST_LOG',
+      message: '"║ View Live Session & Video:                             ║"',
+      level: 'INFO',
+      fileName: '',
+      fileSize: [Long],
+      filePath: '',
+      test_run_uuid: '7f3617ab-62cf-499d-ac53-892ea71c0a6b'
+    },
+    {
+      testFrameworkName: 'WebdriverIO-mocha',
+      testFrameworkVersion: '9.21.0',
+      testFrameworkState: 'LOG',
+      timestamp: '2025-12-27T11:20:36.201Z',
+      uuid: '7f3617ab-62cf-499d-ac53-892ea71c0a6b',
+      kind: 'TEST_LOG',
+      message: '"║ https://app-automate.browserstack.com/dashboard/v2/sessions/d5de17fa491f8ec0dd6e88e6c6fb30accb971e43 ║"',
+      level: 'INFO',
+      fileName: '',
+      fileSize: [Long],
+      filePath: '',
+      test_run_uuid: '7f3617ab-62cf-499d-ac53-892ea71c0a6b'
+    },
+    {
+      testFrameworkName: 'WebdriverIO-mocha',
+      testFrameworkVersion: '9.21.0',
+      testFrameworkState: 'LOG',
+      timestamp: '2025-12-27T11:20:36.201Z',
+      uuid: '7f3617ab-62cf-499d-ac53-892ea71c0a6b',
+      kind: 'TEST_LOG',
+      message: '"╚═══════════════════════════════════════════════════════╝\n"',
+      level: 'INFO',
+      fileName: '',
+      fileSize: [Long],
+      filePath: '',
+      test_run_uuid: '7f3617ab-62cf-499d-ac53-892ea71c0a6b'
+    },
+    {
+      testFrameworkName: 'WebdriverIO-mocha',
+      testFrameworkVersion: '9.21.0',
+      testFrameworkState: 'LOG',
+      timestamp: '2025-12-27T11:20:36.898Z',
+      uuid: '7f3617ab-62cf-499d-ac53-892ea71c0a6b',
+      kind: 'TEST_LOG',
+      message: '"\n✨ Test session completed"',
+      level: 'INFO',
+      fileName: '',
+      fileSize: [Long],
+      filePath: '',
+      test_run_uuid: '7f3617ab-62cf-499d-ac53-892ea71c0a6b'
+    }
+  ]
+} to 30532:0
+2025-12-27T11:20:38.726Z CLI info [testhub:request-queue-handler]  [mhadhbihoussem_GpsWhQ]  [7rsp0uqc1belp6vj5ipfe328hpiwlramd6x2rye0]  [40a45598-3829-474c-86fa-a66c1e9c0e02]  Processing batch event [
+  {
+    event_type: 'LogCreated',
+    logs: [
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object]
+    ]
+  }
+] to 30532:0
+2025-12-27T11:20:38.727Z CLI info  [mhadhbihoussem_GpsWhQ]  [7rsp0uqc1belp6vj5ipfe328hpiwlramd6x2rye0]  [40a45598-3829-474c-86fa-a66c1e9c0e02]  [PRODUCTION] Making POST request to https://collector-observability.browserstack.com
+2025-12-27T11:20:40.597Z CLI info  [mhadhbihoussem_GpsWhQ]  [7rsp0uqc1belp6vj5ipfe328hpiwlramd6x2rye0]  [40a45598-3829-474c-86fa-a66c1e9c0e02]  [PRODUCTION] Making PUT request to https://collector-observability.browserstack.com
+2025-12-27T11:20:40.897Z CLI info [testhub:module]  [mhadhbihoussem_GpsWhQ]  [7rsp0uqc1belp6vj5ipfe328hpiwlramd6x2rye0]  [40a45598-3829-474c-86fa-a66c1e9c0e02]  stopBuild: 7rsp0uqc1belp6vj5ipfe328hpiwlramd6x2rye0 request={"finished_at":"2025-12-27T11:20:40.596Z","finished_metadata":[],"custom_metadata":null} response={"data":""}
+2025-12-27T11:20:40.899Z CLI info  [mhadhbihoussem_GpsWhQ]  [7rsp0uqc1belp6vj5ipfe328hpiwlramd6x2rye0]  [40a45598-3829-474c-86fa-a66c1e9c0e02]  [PRODUCTION] Making POST request to https://api.browserstack.com
+2025-12-27T11:20:40.900Z CLI info [TEST REPORTING AND ANALYTICS:module]  [mhadhbihoussem_GpsWhQ]  [7rsp0uqc1belp6vj5ipfe328hpiwlramd6x2rye0]  [40a45598-3829-474c-86fa-a66c1e9c0e02]  Visit https://automation.browserstack.com/builds/7rsp0uqc1belp6vj5ipfe328hpiwlramd6x2rye0 to view build report, insights, and many more debugging information all at one place!
+2025-12-27T11:20:41.098Z CLI info  [mhadhbihoussem_GpsWhQ]  [7rsp0uqc1belp6vj5ipfe328hpiwlramd6x2rye0]  [40a45598-3829-474c-86fa-a66c1e9c0e02]  [PRODUCTION] Making GET request to https://api.browserstack.com
+2025-12-27T11:20:41.288Z CLI info  [mhadhbihoussem_GpsWhQ]  [7rsp0uqc1belp6vj5ipfe328hpiwlramd6x2rye0]  [40a45598-3829-474c-86fa-a66c1e9c0e02]  [PRODUCTION] Making POST request to https://eds.browserstack.com
+2025-12-27T11:21:55.404Z CLI info [main]     Server listening on port: 5400
+2025-12-27T11:21:55.429Z CLI info     Config : {"userName":"[REDACTED]","accessKey":"[REDACTED]","platforms":[{"platformName":"Android","appium:deviceName":"Google Pixel 5","appium:platformVersion":"11.0","appium:automationName":"UiAutomator2","appium:app":"bs://35918e6a03680c48497e21350280c67ce0214b17","projectName":"My First WebDriverIO Mobile Project on Android device","buildName":"Test regression","sessionName":"ColorNote - Delete note","debug":true,"networkLogs":true,"deviceLogs":true,"appiumLogs":true,"video":true,"local":false,"interactiveDebugging":true,"consoleLogs":"verbose","buildTag":"regression","buildIdentifier":"1766834514164","wdioService":"9.21.0"}],"isNonBstackA11yWDIO":false,"testObservability":true,"testObservabilityOptions":{"projectName":"My First WebDriverIO Mobile Project","buildName":"Test regression","buildTag":"android-tests"},"browserstackLocal":false,"accessibility":null,"browserStackLocalOptions":{"forceLocal":false},"testContextOptions":{"skipSessionName":false,"skipSessionStatus":false,"sessionNameOmitTestTitle":false,"sessionNamePrependTopLevelSuiteTitle":false,"sessionNameFormat":""},"buildName":"Test regression","projectName":"My First WebDriverIO Mobile Project","buildTag":"android-tests"}
+2025-12-27T11:21:55.432Z CLI info     Should start debug utility: undefined
+2025-12-27T11:21:55.433Z CLI info [testhub:module]  [mhadhbihoussem_GpsWhQ]   [d05464e4-19a5-43dd-ae8e-de396687755b]  Starting testhub from 16720:0
+2025-12-27T11:21:55.434Z CLI info  [mhadhbihoussem_GpsWhQ]   [d05464e4-19a5-43dd-ae8e-de396687755b]  [PRODUCTION] Making POST request to https://sdk.browserstack.com
+2025-12-27T11:21:56.297Z CLI info [testhub:module]  [mhadhbihoussem_GpsWhQ]   [d05464e4-19a5-43dd-ae8e-de396687755b]  startBuild: response=qwh6f1m1nytm5rvu3zkmiafxxj0md8l8pvghxw26
+2025-12-27T11:21:56.299Z CLI info  [mhadhbihoussem_GpsWhQ]  [qwh6f1m1nytm5rvu3zkmiafxxj0md8l8pvghxw26]  [d05464e4-19a5-43dd-ae8e-de396687755b]  [PRODUCTION] Making POST request to https://api.browserstack.com
+2025-12-27T11:21:57.760Z CLI info  [mhadhbihoussem_GpsWhQ]  [qwh6f1m1nytm5rvu3zkmiafxxj0md8l8pvghxw26]  [d05464e4-19a5-43dd-ae8e-de396687755b]  [PRODUCTION] Making GET request to https://hub.browserstack.com
+2025-12-27T11:21:57.923Z CLI info  [mhadhbihoussem_GpsWhQ]  [qwh6f1m1nytm5rvu3zkmiafxxj0md8l8pvghxw26]  [d05464e4-19a5-43dd-ae8e-de396687755b]  [PRODUCTION] Making GET request to https://hub-euw.browserstack.com
+2025-12-27T11:21:58.053Z CLI info  [mhadhbihoussem_GpsWhQ]  [qwh6f1m1nytm5rvu3zkmiafxxj0md8l8pvghxw26]  [d05464e4-19a5-43dd-ae8e-de396687755b]  [PRODUCTION] Making GET request to https://hub-use.browserstack.com
+2025-12-27T11:21:58.070Z CLI info [sdk:service]  [mhadhbihoussem_GpsWhQ]  [qwh6f1m1nytm5rvu3zkmiafxxj0md8l8pvghxw26]  [d05464e4-19a5-43dd-ae8e-de396687755b]  Driver initialized as primary driver: platformIndex=0
+2025-12-27T11:21:58.451Z CLI info  [mhadhbihoussem_GpsWhQ]  [qwh6f1m1nytm5rvu3zkmiafxxj0md8l8pvghxw26]  [d05464e4-19a5-43dd-ae8e-de396687755b]  [PRODUCTION] Making GET request to https://hub-aps.browserstack.com
+2025-12-27T11:22:51.691Z CLI info [testhub:request-queue-handler]  [mhadhbihoussem_GpsWhQ]  [qwh6f1m1nytm5rvu3zkmiafxxj0md8l8pvghxw26]  [d05464e4-19a5-43dd-ae8e-de396687755b]  Added the event {
+  event_type: 'CBTSessionCreated',
+  test_run: {
+    uuid: '84bbb8d2-f6d4-4af8-b6b6-2fa8b9827c56',
+    integrations: { browserstack: [Object] }
+  }
+} to 16720:0
+2025-12-27T11:22:51.693Z CLI error [TEST REPORTING AND ANALYTICS:service]  [mhadhbihoussem_GpsWhQ]  [qwh6f1m1nytm5rvu3zkmiafxxj0md8l8pvghxw26]  [d05464e4-19a5-43dd-ae8e-de396687755b]  TypeError [ERR_INVALID_ARG_TYPE]: The "to" argument must be of type string. Received undefined
+    at new NodeError (node:internal/errors:405:5)
+    at validateString (node:internal/validators:162:11)
+    at Object.relative (node:path:498:5)
+    at MochaModule.makeFileDetails (C:\snapshot\browserstack-binary\cli\dist\index.js)
+    at MochaModule.sendTestEvent (C:\snapshot\browserstack-binary\cli\dist\index.js)
+    at MochaModule.onTestRunStarted (C:\snapshot\browserstack-binary\cli\dist\index.js)
+    at _0x139aa5 (C:\snapshot\browserstack-binary\cli\dist\index.js)
+    at WebdriverIOModule.runEventAction (C:\snapshot\browserstack-binary\cli\dist\index.js)
+    at WebdriverIOModule.onTestFrameworkEvent (C:\snapshot\browserstack-binary\cli\dist\index.js)
+    at ObservabilityModule.forwardRequest (C:\snapshot\browserstack-binary\cli\dist\index.js)
+2025-12-27T11:22:52.498Z CLI info [testhub:request-queue-handler]  [mhadhbihoussem_GpsWhQ]  [qwh6f1m1nytm5rvu3zkmiafxxj0md8l8pvghxw26]  [d05464e4-19a5-43dd-ae8e-de396687755b]  Processing batch event [
+  {
+    event_type: 'CBTSessionCreated',
+    test_run: {
+      uuid: '84bbb8d2-f6d4-4af8-b6b6-2fa8b9827c56',
+      integrations: [Object]
+    }
+  }
+] to 16720:0
+2025-12-27T11:22:52.499Z CLI info  [mhadhbihoussem_GpsWhQ]  [qwh6f1m1nytm5rvu3zkmiafxxj0md8l8pvghxw26]  [d05464e4-19a5-43dd-ae8e-de396687755b]  [PRODUCTION] Making POST request to https://collector-observability.browserstack.com
+2025-12-27T11:22:57.829Z CLI warn [TEST REPORTING AND ANALYTICS:webdriverio:mocha]  [mhadhbihoussem_GpsWhQ]  [qwh6f1m1nytm5rvu3zkmiafxxj0md8l8pvghxw26]  [d05464e4-19a5-43dd-ae8e-de396687755b]  TestRunFinished: event={"test_framework_name":"WebdriverIO-mocha","test_framework_version":"9.21.0","test_logs":[{"kind":"TEST_LOG","message":{"type":"Buffer","data":[34,10,226,156,133,32,80,65,83,83,69,68,32,84,101,115,116,58,32,68,101,108,101,116,101,32,78,111,116,101,32,38,32,118,101,114,105,102,121,32,68,101,108,101,116,101,100,32,110,111,116,101,34]},"level":"INFO","timestamp":"2025-12-27T11:22:57.820Z"},{"kind":"TEST_LOG","message":{"type":"Buffer","data":[34,226,143,177,239,184,143,32,32,68,117,114,97,116,105,111,110,58,32,54,49,51,56,109,115,34]},"level":"INFO","timestamp":"2025-12-27T11:22:57.820Z"},{"kind":"TEST_LOG","message":{"type":"Buffer","data":[34,10,226,149,148,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,151,34]},"level":"INFO","timestamp":"2025-12-27T11:22:57.820Z"},{"kind":"TEST_LOG","message":{"type":"Buffer","data":[34,226,149,145,32,32,32,32,32,32,32,32,32,32,66,114,111,119,115,101,114,83,116,97,99,107,32,83,101,115,115,105,111,110,32,68,101,116,97,105,108,115,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,226,149,145,34]},"level":"INFO","timestamp":"2025-12-27T11:22:57.820Z"},{"kind":"TEST_LOG","message":{"type":"Buffer","data":[34,226,149,160,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,163,34]},"level":"INFO","timestamp":"2025-12-27T11:22:57.820Z"},{"kind":"TEST_LOG","message":{"type":"Buffer","data":[34,226,149,145,32,83,116,97,116,117,115,58,32,226,156,133,32,80,65,83,83,69,68,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,226,149,145,34]},"level":"INFO","timestamp":"2025-12-27T11:22:57.820Z"},{"kind":"TEST_LOG","message":{"type":"Buffer","data":[34,226,149,145,32,86,105,101,119,32,76,105,118,101,32,83,101,115,115,105,111,110,32,38,32,86,105,100,101,111,58,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,226,149,145,34]},"level":"INFO","timestamp":"2025-12-27T11:22:57.820Z"},{"kind":"TEST_LOG","message":{"type":"Buffer","data":[34,226,149,145,32,104,116,116,112,115,58,47,47,97,112,112,45,97,117,116,111,109,97,116,101,46,98,114,111,119,115,101,114,115,116,97,99,107,46,99,111,109,47,100,97,115,104,98,111,97,114,100,47,118,50,47,115,101,115,115,105,111,110,115,47,100,101,49,49,54,56,97,51,55,53,102,50,48,54,98,57,56,100,101,57,102,97,97,56,53,49,55,57,101,51,57,48,49,99,54,55,52,98,49,53,32,226,149,145,34]},"level":"INFO","timestamp":"2025-12-27T11:22:57.820Z"},{"kind":"TEST_LOG","message":{"type":"Buffer","data":[34,226,149,154,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,144,226,149,157,10,34]},"level":"INFO","timestamp":"2025-12-27T11:22:57.820Z"}],"test_hooks_finished":{},"test_hooks_started":{},"test_uuid":"84bbb8d2-f6d4-4af8-b6b6-2fa8b9827c56","test_result":"passed","test_hook_last_started":"TestFrameworkState.TEST","test_id":"Android Native Feature Tests  - Delete Note & verify Deleted note","test_name":"Delete Note & verify Deleted note","test_code":"async()=>{const noteElement=await $('//*[@text=\"FavAnimeList\"]');await noteElement.waitForDisplayed({timeout:8e3});await noteElement.click();await import_add_note_screen.default.ThreeDotsMenuBtn.waitForDisplayed({timeout:8e3});await import_add_note_screen.default.ThreeDotsMenuBtn.click();await import_add_note_screen.default.DeleteOption.click();await driver.acceptAlert();await import_add_note_screen.default.IconNavBtn.click();await import_add_note_screen.default.TrashCanOption.click();const trashCanItemText=await import_add_note_screen.default.TrashCanItem.getText();await expect(trashCanItemText).toBe(\"FavAnimeList\")}","test_location":"test\\specs\\android\\TestsColorNote\\add-notePO.spec.js","test_scope":"Android Native Feature Tests  - Delete Note & verify Deleted note","test_scopes":["Android Native Feature Tests "],"test_started_at":"2025-12-27T11:22:51.676Z","automate_session_name":"Android Native Feature Tests  - Delete Note & verify Deleted note","test_failure":null,"test_failure_reason":null,"test_failure_type":null,"test_ended_at":"2025-12-27T11:22:57.825Z","test_hook_last_finished":"TestFrameworkState.TEST","automate_session_status":"passed","test_deferred":true,"logs":[]}
+2025-12-27T11:22:57.830Z CLI error [TEST REPORTING AND ANALYTICS:service]  [mhadhbihoussem_GpsWhQ]  [qwh6f1m1nytm5rvu3zkmiafxxj0md8l8pvghxw26]  [d05464e4-19a5-43dd-ae8e-de396687755b]  TypeError [ERR_INVALID_ARG_TYPE]: The "to" argument must be of type string. Received undefined
+    at new NodeError (node:internal/errors:405:5)
+    at validateString (node:internal/validators:162:11)
+    at Object.relative (node:path:498:5)
+    at MochaModule.makeFileDetails (C:\snapshot\browserstack-binary\cli\dist\index.js)
+    at MochaModule.sendTestEvent (C:\snapshot\browserstack-binary\cli\dist\index.js)
+    at MochaModule.onTestRunFinished (C:\snapshot\browserstack-binary\cli\dist\index.js)
+    at _0x139aa5 (C:\snapshot\browserstack-binary\cli\dist\index.js)
+    at WebdriverIOModule.runEventAction (C:\snapshot\browserstack-binary\cli\dist\index.js)
+    at WebdriverIOModule.onTestFrameworkEvent (C:\snapshot\browserstack-binary\cli\dist\index.js)
+    at ObservabilityModule.forwardRequest (C:\snapshot\browserstack-binary\cli\dist\index.js)
+2025-12-27T11:22:58.541Z CLI info [testhub:request-queue-handler]  [mhadhbihoussem_GpsWhQ]  [qwh6f1m1nytm5rvu3zkmiafxxj0md8l8pvghxw26]  [d05464e4-19a5-43dd-ae8e-de396687755b]  Added the event {
+  event_type: 'LogCreated',
+  logs: [
+    {
+      testFrameworkName: 'WebdriverIO-mocha',
+      testFrameworkVersion: '9.21.0',
+      testFrameworkState: 'LOG',
+      timestamp: '2025-12-27T11:22:57.820Z',
+      uuid: '84bbb8d2-f6d4-4af8-b6b6-2fa8b9827c56',
+      kind: 'TEST_LOG',
+      message: '"\n✅ PASSED Test: Delete Note & verify Deleted note"',
+      level: 'INFO',
+      fileName: '',
+      fileSize: [Long],
+      filePath: '',
+      test_run_uuid: '84bbb8d2-f6d4-4af8-b6b6-2fa8b9827c56'
+    },
+    {
+      testFrameworkName: 'WebdriverIO-mocha',
+      testFrameworkVersion: '9.21.0',
+      testFrameworkState: 'LOG',
+      timestamp: '2025-12-27T11:22:57.820Z',
+      uuid: '84bbb8d2-f6d4-4af8-b6b6-2fa8b9827c56',
+      kind: 'TEST_LOG',
+      message: '"⏱️  Duration: 6138ms"',
+      level: 'INFO',
+      fileName: '',
+      fileSize: [Long],
+      filePath: '',
+      test_run_uuid: '84bbb8d2-f6d4-4af8-b6b6-2fa8b9827c56'
+    },
+    {
+      testFrameworkName: 'WebdriverIO-mocha',
+      testFrameworkVersion: '9.21.0',
+      testFrameworkState: 'LOG',
+      timestamp: '2025-12-27T11:22:57.820Z',
+      uuid: '84bbb8d2-f6d4-4af8-b6b6-2fa8b9827c56',
+      kind: 'TEST_LOG',
+      message: '"\n╔═══════════════════════════════════════════════════════╗"',
+      level: 'INFO',
+      fileName: '',
+      fileSize: [Long],
+      filePath: '',
+      test_run_uuid: '84bbb8d2-f6d4-4af8-b6b6-2fa8b9827c56'
+    },
+    {
+      testFrameworkName: 'WebdriverIO-mocha',
+      testFrameworkVersion: '9.21.0',
+      testFrameworkState: 'LOG',
+      timestamp: '2025-12-27T11:22:57.820Z',
+      uuid: '84bbb8d2-f6d4-4af8-b6b6-2fa8b9827c56',
+      kind: 'TEST_LOG',
+      message: '"║          BrowserStack Session Details                 ║"',
+      level: 'INFO',
+      fileName: '',
+      fileSize: [Long],
+      filePath: '',
+      test_run_uuid: '84bbb8d2-f6d4-4af8-b6b6-2fa8b9827c56'
+    },
+    {
+      testFrameworkName: 'WebdriverIO-mocha',
+      testFrameworkVersion: '9.21.0',
+      testFrameworkState: 'LOG',
+      timestamp: '2025-12-27T11:22:57.820Z',
+      uuid: '84bbb8d2-f6d4-4af8-b6b6-2fa8b9827c56',
+      kind: 'TEST_LOG',
+      message: '"╠═══════════════════════════════════════════════════════╣"',
+      level: 'INFO',
+      fileName: '',
+      fileSize: [Long],
+      filePath: '',
+      test_run_uuid: '84bbb8d2-f6d4-4af8-b6b6-2fa8b9827c56'
+    },
+    {
+      testFrameworkName: 'WebdriverIO-mocha',
+      testFrameworkVersion: '9.21.0',
+      testFrameworkState: 'LOG',
+      timestamp: '2025-12-27T11:22:57.820Z',
+      uuid: '84bbb8d2-f6d4-4af8-b6b6-2fa8b9827c56',
+      kind: 'TEST_LOG',
+      message: '"║ Status: ✅ PASSED                                      ║"',
+      level: 'INFO',
+      fileName: '',
+      fileSize: [Long],
+      filePath: '',
+      test_run_uuid: '84bbb8d2-f6d4-4af8-b6b6-2fa8b9827c56'
+    },
+    {
+      testFrameworkName: 'WebdriverIO-mocha',
+      testFrameworkVersion: '9.21.0',
+      testFrameworkState: 'LOG',
+      timestamp: '2025-12-27T11:22:57.820Z',
+      uuid: '84bbb8d2-f6d4-4af8-b6b6-2fa8b9827c56',
+      kind: 'TEST_LOG',
+      message: '"║ View Live Session & Video:                             ║"',
+      level: 'INFO',
+      fileName: '',
+      fileSize: [Long],
+      filePath: '',
+      test_run_uuid: '84bbb8d2-f6d4-4af8-b6b6-2fa8b9827c56'
+    },
+    {
+      testFrameworkName: 'WebdriverIO-mocha',
+      testFrameworkVersion: '9.21.0',
+      testFrameworkState: 'LOG',
+      timestamp: '2025-12-27T11:22:57.820Z',
+      uuid: '84bbb8d2-f6d4-4af8-b6b6-2fa8b9827c56',
+      kind: 'TEST_LOG',
+      message: '"║ https://app-automate.browserstack.com/dashboard/v2/sessions/de1168a375f206b98de9faa85179e3901c674b15 ║"',
+      level: 'INFO',
+      fileName: '',
+      fileSize: [Long],
+      filePath: '',
+      test_run_uuid: '84bbb8d2-f6d4-4af8-b6b6-2fa8b9827c56'
+    },
+    {
+      testFrameworkName: 'WebdriverIO-mocha',
+      testFrameworkVersion: '9.21.0',
+      testFrameworkState: 'LOG',
+      timestamp: '2025-12-27T11:22:57.820Z',
+      uuid: '84bbb8d2-f6d4-4af8-b6b6-2fa8b9827c56',
+      kind: 'TEST_LOG',
+      message: '"╚═══════════════════════════════════════════════════════╝\n"',
+      level: 'INFO',
+      fileName: '',
+      fileSize: [Long],
+      filePath: '',
+      test_run_uuid: '84bbb8d2-f6d4-4af8-b6b6-2fa8b9827c56'
+    },
+    {
+      testFrameworkName: 'WebdriverIO-mocha',
+      testFrameworkVersion: '9.21.0',
+      testFrameworkState: 'LOG',
+      timestamp: '2025-12-27T11:22:58.529Z',
+      uuid: '84bbb8d2-f6d4-4af8-b6b6-2fa8b9827c56',
+      kind: 'TEST_LOG',
+      message: '"\n✨ Test session completed"',
+      level: 'INFO',
+      fileName: '',
+      fileSize: [Long],
+      filePath: '',
+      test_run_uuid: '84bbb8d2-f6d4-4af8-b6b6-2fa8b9827c56'
+    }
+  ]
+} to 16720:0
+2025-12-27T11:23:00.527Z CLI info [testhub:request-queue-handler]  [mhadhbihoussem_GpsWhQ]  [qwh6f1m1nytm5rvu3zkmiafxxj0md8l8pvghxw26]  [d05464e4-19a5-43dd-ae8e-de396687755b]  Processing batch event [
+  {
+    event_type: 'LogCreated',
+    logs: [
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object]
+    ]
+  }
+] to 16720:0
+2025-12-27T11:23:00.528Z CLI info  [mhadhbihoussem_GpsWhQ]  [qwh6f1m1nytm5rvu3zkmiafxxj0md8l8pvghxw26]  [d05464e4-19a5-43dd-ae8e-de396687755b]  [PRODUCTION] Making POST request to https://collector-observability.browserstack.com
+2025-12-27T11:23:02.255Z CLI info  [mhadhbihoussem_GpsWhQ]  [qwh6f1m1nytm5rvu3zkmiafxxj0md8l8pvghxw26]  [d05464e4-19a5-43dd-ae8e-de396687755b]  [PRODUCTION] Making PUT request to https://collector-observability.browserstack.com
+2025-12-27T11:23:02.551Z CLI info [testhub:module]  [mhadhbihoussem_GpsWhQ]  [qwh6f1m1nytm5rvu3zkmiafxxj0md8l8pvghxw26]  [d05464e4-19a5-43dd-ae8e-de396687755b]  stopBuild: qwh6f1m1nytm5rvu3zkmiafxxj0md8l8pvghxw26 request={"finished_at":"2025-12-27T11:23:02.255Z","finished_metadata":[],"custom_metadata":null} response={"data":""}
+2025-12-27T11:23:02.552Z CLI info  [mhadhbihoussem_GpsWhQ]  [qwh6f1m1nytm5rvu3zkmiafxxj0md8l8pvghxw26]  [d05464e4-19a5-43dd-ae8e-de396687755b]  [PRODUCTION] Making POST request to https://api.browserstack.com
+2025-12-27T11:23:02.553Z CLI info [TEST REPORTING AND ANALYTICS:module]  [mhadhbihoussem_GpsWhQ]  [qwh6f1m1nytm5rvu3zkmiafxxj0md8l8pvghxw26]  [d05464e4-19a5-43dd-ae8e-de396687755b]  Visit https://automation.browserstack.com/builds/qwh6f1m1nytm5rvu3zkmiafxxj0md8l8pvghxw26 to view build report, insights, and many more debugging information all at one place!
+2025-12-27T11:23:02.949Z CLI info  [mhadhbihoussem_GpsWhQ]  [qwh6f1m1nytm5rvu3zkmiafxxj0md8l8pvghxw26]  [d05464e4-19a5-43dd-ae8e-de396687755b]  [PRODUCTION] Making GET request to https://api.browserstack.com
+2025-12-27T11:23:03.136Z CLI info  [mhadhbihoussem_GpsWhQ]  [qwh6f1m1nytm5rvu3zkmiafxxj0md8l8pvghxw26]  [d05464e4-19a5-43dd-ae8e-de396687755b]  [PRODUCTION] Making POST request to https://eds.browserstack.com
+2025-12-27T11:33:05.290Z CLI info [main]     Server listening on port: 5400
+2025-12-27T11:33:05.315Z CLI info     Config : {"userName":"[REDACTED]","accessKey":"[REDACTED]","platforms":[{"platformName":"Android","appium:deviceName":"Google Pixel 5","appium:platformVersion":"11.0","appium:automationName":"UiAutomator2","appium:app":"bs://35918e6a03680c48497e21350280c67ce0214b17","projectName":"My First WebDriverIO Mobile Project on Android device","buildName":"Test regression","sessionName":"ColorNote - Delete note","debug":true,"networkLogs":true,"deviceLogs":true,"appiumLogs":true,"video":true,"local":false,"interactiveDebugging":true,"consoleLogs":"verbose","buildTag":"regression","buildIdentifier":"1766835184095","wdioService":"9.21.0"}],"isNonBstackA11yWDIO":false,"testObservability":false,"testObservabilityOptions":{"projectName":"My First WebDriverIO Mobile Project","buildName":"Test regression","buildTag":"android-tests"},"browserstackLocal":false,"accessibility":null,"browserStackLocalOptions":{"forceLocal":false},"testContextOptions":{"skipSessionName":false,"skipSessionStatus":false,"sessionNameOmitTestTitle":false,"sessionNamePrependTopLevelSuiteTitle":false,"sessionNameFormat":""},"buildName":"Test regression","projectName":"My First WebDriverIO Mobile Project","buildTag":"android-tests"}
+2025-12-27T11:33:05.318Z CLI info     Should start debug utility: undefined
+2025-12-27T11:33:05.319Z CLI info [testhub:module]  [mhadhbihoussem_GpsWhQ]   [cd041018-3305-47c5-9472-fa34a9e0a51f]  Starting testhub from 17124:0
+2025-12-27T11:33:05.320Z CLI info  [mhadhbihoussem_GpsWhQ]   [cd041018-3305-47c5-9472-fa34a9e0a51f]  [PRODUCTION] Making POST request to https://sdk.browserstack.com
+2025-12-27T11:33:06.320Z CLI info [testhub:module]  [mhadhbihoussem_GpsWhQ]   [cd041018-3305-47c5-9472-fa34a9e0a51f]  startBuild: response=opxiestbrc8narbys0hdtnnylcntksz2duqin6ah
+2025-12-27T11:33:06.321Z CLI info  [mhadhbihoussem_GpsWhQ]  [opxiestbrc8narbys0hdtnnylcntksz2duqin6ah]  [cd041018-3305-47c5-9472-fa34a9e0a51f]  [PRODUCTION] Making POST request to https://api.browserstack.com
+2025-12-27T11:33:07.681Z CLI info  [mhadhbihoussem_GpsWhQ]  [opxiestbrc8narbys0hdtnnylcntksz2duqin6ah]  [cd041018-3305-47c5-9472-fa34a9e0a51f]  [PRODUCTION] Making GET request to https://hub.browserstack.com
+2025-12-27T11:33:07.816Z CLI info  [mhadhbihoussem_GpsWhQ]  [opxiestbrc8narbys0hdtnnylcntksz2duqin6ah]  [cd041018-3305-47c5-9472-fa34a9e0a51f]  [PRODUCTION] Making GET request to https://hub-euw.browserstack.com
+2025-12-27T11:33:07.947Z CLI info  [mhadhbihoussem_GpsWhQ]  [opxiestbrc8narbys0hdtnnylcntksz2duqin6ah]  [cd041018-3305-47c5-9472-fa34a9e0a51f]  [PRODUCTION] Making GET request to https://hub-use.browserstack.com
+2025-12-27T11:33:07.964Z CLI info [sdk:service]  [mhadhbihoussem_GpsWhQ]  [opxiestbrc8narbys0hdtnnylcntksz2duqin6ah]  [cd041018-3305-47c5-9472-fa34a9e0a51f]  Driver initialized as primary driver: platformIndex=0
+2025-12-27T11:33:08.348Z CLI info  [mhadhbihoussem_GpsWhQ]  [opxiestbrc8narbys0hdtnnylcntksz2duqin6ah]  [cd041018-3305-47c5-9472-fa34a9e0a51f]  [PRODUCTION] Making GET request to https://hub-aps.browserstack.com
+2025-12-27T11:34:01.472Z CLI error [TEST REPORTING AND ANALYTICS:service]  [mhadhbihoussem_GpsWhQ]  [opxiestbrc8narbys0hdtnnylcntksz2duqin6ah]  [cd041018-3305-47c5-9472-fa34a9e0a51f]  Error: unsupported language: ECMAScript
+    at ObservabilityModule.forwardRequest (C:\snapshot\browserstack-binary\cli\dist\index.js)
+    at ObservabilityModule.onTestFrameworkEvent (C:\snapshot\browserstack-binary\cli\dist\index.js)
+    at C:\snapshot\browserstack-binary\cli\dist\index.js
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2025-12-27T11:34:07.481Z CLI error [TEST REPORTING AND ANALYTICS:service]  [mhadhbihoussem_GpsWhQ]  [opxiestbrc8narbys0hdtnnylcntksz2duqin6ah]  [cd041018-3305-47c5-9472-fa34a9e0a51f]  Error: unsupported language: ECMAScript
+    at ObservabilityModule.forwardRequest (C:\snapshot\browserstack-binary\cli\dist\index.js)
+    at ObservabilityModule.onTestFrameworkEvent (C:\snapshot\browserstack-binary\cli\dist\index.js)
+    at C:\snapshot\browserstack-binary\cli\dist\index.js
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2025-12-27T11:34:11.493Z CLI info  [mhadhbihoussem_GpsWhQ]  [opxiestbrc8narbys0hdtnnylcntksz2duqin6ah]  [cd041018-3305-47c5-9472-fa34a9e0a51f]  [PRODUCTION] Making PUT request to https://collector-observability.browserstack.com
+2025-12-27T11:34:11.786Z CLI error [core:http]  [mhadhbihoussem_GpsWhQ]  [opxiestbrc8narbys0hdtnnylcntksz2duqin6ah]  [cd041018-3305-47c5-9472-fa34a9e0a51f]  Failed queued request: PUT api/v2/builds/opxiestbrc8narbys0hdtnnylcntksz2duqin6ah/stop Response code 401 (Unauthorized)
+2025-12-27T11:34:11.786Z CLI error [testhub:module]  [mhadhbihoussem_GpsWhQ]  [opxiestbrc8narbys0hdtnnylcntksz2duqin6ah]  [cd041018-3305-47c5-9472-fa34a9e0a51f]  stopBuild: request={"finished_at":"2025-12-27T11:34:11.493Z","finished_metadata":[],"custom_metadata":null} error=HTTPError: Response code 401 (Unauthorized)
+    at _0x5870c6.<anonymous> (C:\snapshot\browserstack-binary\cli\dist\index.js)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2025-12-27T11:34:11.786Z CLI error  [mhadhbihoussem_GpsWhQ]  [opxiestbrc8narbys0hdtnnylcntksz2duqin6ah]  [cd041018-3305-47c5-9472-fa34a9e0a51f]  error invoking callback for eventName: {"name":"HTTPError","code":"ERR_NON_2XX_3XX_RESPONSE","timings":{"start":1766835251495,"socket":1766835251495,"lookup":1766835251523,"connect":1766835251610,"secureConnect":1766835251698,"upload":1766835251698,"response":1766835251783,"end":1766835251784,"phases":{"wait":0,"dns":28,"tcp":87,"tls":88,"request":0,"firstByte":85,"download":1,"total":289}}}
+2025-12-27T11:34:11.786Z CLI error  [mhadhbihoussem_GpsWhQ]  [opxiestbrc8narbys0hdtnnylcntksz2duqin6ah]  [cd041018-3305-47c5-9472-fa34a9e0a51f]  HTTPError: Response code 401 (Unauthorized)
+    at _0x5870c6.<anonymous> (C:\snapshot\browserstack-binary\cli\dist\index.js)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2025-12-27T11:34:11.787Z CLI info  [mhadhbihoussem_GpsWhQ]  [opxiestbrc8narbys0hdtnnylcntksz2duqin6ah]  [cd041018-3305-47c5-9472-fa34a9e0a51f]  [PRODUCTION] Making POST request to https://api.browserstack.com
+2025-12-27T11:34:11.789Z CLI info [TEST REPORTING AND ANALYTICS:module]  [mhadhbihoussem_GpsWhQ]  [opxiestbrc8narbys0hdtnnylcntksz2duqin6ah]  [cd041018-3305-47c5-9472-fa34a9e0a51f]  Visit https://automation.browserstack.com/builds/opxiestbrc8narbys0hdtnnylcntksz2duqin6ah to view build report, insights, and many more debugging information all at one place!
+2025-12-27T11:34:11.958Z CLI info  [mhadhbihoussem_GpsWhQ]  [opxiestbrc8narbys0hdtnnylcntksz2duqin6ah]  [cd041018-3305-47c5-9472-fa34a9e0a51f]  [PRODUCTION] Making GET request to https://api.browserstack.com
+2025-12-27T11:34:12.180Z CLI info  [mhadhbihoussem_GpsWhQ]  [opxiestbrc8narbys0hdtnnylcntksz2duqin6ah]  [cd041018-3305-47c5-9472-fa34a9e0a51f]  [PRODUCTION] Making POST request to https://eds.browserstack.com
