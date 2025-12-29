@@ -1,29 +1,54 @@
-name: CI
-on: [push, pull_request]
-jobs:
-  build:
+name: CI - Mobile Automation Tests
+
+on: 
+  push: 
+    branches:  [ main, develop ]
+  pull_request:
+    branches: [ main ]
+
+jobs: 
+  test:
+    name: Run BrowserStack Tests
     runs-on: ubuntu-latest
+    
     steps:
-        - name: ⬇️ Checkout Code
-          uses: actions/checkout@v4
+      - name: ⬇️ Checkout Code
+        uses: actions/checkout@v4
 
-        - name: 🐢 Setup Node
-          uses: actions/setup-node@v4
-          with:
-            node-version-file: '.nvmrc'
+      - name: 🐢 Setup Node. js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '24'  # Changed to 24
+          cache: 'npm'
 
-        - name: 🏗️ Install Dependencies
-          run: npm install
+      - name: 📦 Install Dependencies
+        run:  npm ci
 
-        - name: 🧪 Test
-          env:
-              BROWSERSTACK_USERNAME: ${{ secrets.BS_USER }}
-              BROWSERSTACK_ACCESS_KEY: ${{ secrets.BS_KEY }}
-          run: npm run test:android:bs
+      - name: 🧪 Run Mobile Tests on BrowserStack
+        env: 
+          BROWSERSTACK_USERNAME:  ${{ secrets.BS_USER }}
+          BROWSERSTACK_ACCESS_KEY: ${{ secrets.BS_KEY }}
+          PRINT_CAPABILITIES: true
+          PRINT_BS_URL: true
+        run: npm run test:android:bs
 
-        - name: 📦 Upload Logs
-          uses: actions/upload-artifact@v4
-          if: failure()
-          with:
-            name: logs
-            path: logs
+      - name: 📊 Upload Test Reports
+        uses:  actions/upload-artifact@v4
+        if: always()
+        with:
+          name:  test-reports
+          path: |
+            reports/
+            logs/
+            screenshots/
+          retention-days: 7
+
+      - name: 📝 Upload BrowserStack Logs
+        uses:  actions/upload-artifact@v4
+        if: failure()
+        with:
+          name: browserstack-logs
+          path: |
+            *.log
+            . browserstack/
+          retention-days: 3
