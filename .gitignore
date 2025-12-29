@@ -1,3 +1,21 @@
-node_modules/
-.DS_Store
+# Environment variables
 .env
+
+# Node modules
+node_modules/
+
+# Test results
+reports/
+performance-report/
+screenshots/
+allure-results/
+
+# Logs
+log/
+logs/
+*.log
+npm-debug. log*
+
+# OS files
+.DS_Store
+Thumbs.db

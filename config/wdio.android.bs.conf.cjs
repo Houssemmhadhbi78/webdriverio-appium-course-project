@@ -22,6 +22,15 @@ config.capabilities = [{
     'appium:app': 'bs://35918e6a03680c48497e21350280c67ce0214b17',
     // 'appium:autoGrantPermissions': true,
 
+    // Contrôle de l'orientation
+    'appium:orientation': 'PORTRAIT',
+    'appium:autoRotate': false,
+
+    // Améliorer la stabilité
+    'appium:newCommandTimeout': 300,
+    'appium:noReset': false,
+    'appium:fullReset': false,
+
     'bstack:options': {
         projectName: 'My First WebDriverIO Mobile Project on Android device',
         buildName: 'Test regression',
